@@ -1,0 +1,37 @@
+AgentID,AgentName,Team,AgentStatus
+AG001,Hira Shah,Billing,Active
+AG002,Zoya Iqbal,Technical Support,Active
+AG003,Bilal Ahmed,Retention,Active
+AG004,Ahmed Khan,Retention,Inactive
+AG005,Muneeb Tariq,Technical Support,Active
+AG006,Sana Malik,Installation,Active
+AG007,Usman Ali,Installation,Inactive
+AG008,Bilal Ahmed,technical support,Inactive
+AG009,Bilal Ahmed,Billing ,Inactive
+AG010,Hira Shah,Technical Support,Active
+AG011,Farhan Raza,Technical Support,Active
+AG012,Muneeb Tariq,technical support,Inactive
+AG013,Farhan Raza,General Support,Inactive
+AG014,Hira Shah,Technical Support,Inactive
+AG015,Sana Malik,General Support,Active
+AG016,Muneeb Tariq,Billing,Inactive
+AG017,Sana Malik,Billing,Inactive
+AG018,Hira Shah,General Support,Inactive
+AG019,Usman Ali,Technical Support,Active
+AG020,,Billing,Inactive
+AG021,Hira Shah,General Support,Active
+AG022,Sana Malik,General Support,Active
+AG023,Ahmed Khan,Billing ,Active
+AG024,Zoya Iqbal,Installation,Inactive
+AG025,Ahmed Khan,General Support,Active
+AG026,Bilal Ahmed,Billing,Active
+AG027,Bilal Ahmed,Billing,Inactive
+AG028,Hira Shah,General Support,Active
+AG029,Ahmed Khan,Installation,Active
+AG030,,General Support,Active
+AG031,Sana Malik,Installation,Active
+AG032,Bilal Ahmed,Installation,Active
+AG033,Usman Ali,Installation,Active
+AG034,Zoya Iqbal,Installation,Active
+AG035,,,Inactive
+AG005,Muneeb Tariq,Technical Support,Active

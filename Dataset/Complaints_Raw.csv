@@ -1,0 +1,1006 @@
+ComplaintID,CustomerID,AgentID,ComplaintDate,ResolutionDate,IssueCategory,IssueSubcategory,Priority,Status,Channel,ProductService,ResolutionHours,SatisfactionRating,Reopened,ComplaintDescription
+COMP000001,CUST00127,AG010,2025-06-28 12:52:00,,Account,Account Update,Medium,RESOLVED ,Call,Mobile,,,No,Payment issue
+COMP000002,CUST00018,AG004,2024-09-03 06:04:00,,Billing,Refund Request,Low,Open,Mobile App,,,2.0,No,Customer reported service issue
+COMP000003,,AG021,2025-05-30 09:14:00,,Mobile Network,Dropped Calls,High,Escalated,Email,TV,,4.0,No,Request not completed
+COMP000004,CUST00219,AG999,2025-07-24 18:56:00,,Billing,Duplicate Bill,Critical,In Progress,Walk-in,internet,,,No,Connection unstable
+COMP000005,CUST00243,AG015,2024-11-03 12:11:00,,Mobile Network,No Coverage,Medium,Escalated,Mobile App,Mobile,,5.0,No,Connection unstable
+COMP000006,CUST00170,AG029,2025-02-01 07:16:00,,Mobile Network,No Coverage,Low,In Progress,Walk-in,TV,,1.0,No,Connection unstable
+COMP000007,CUST00287,AG014,2026-06-13 02:12:00,,Billing,Duplicate Bill,High,Escalated,Call,TV,,2.0,Yes,Complaint regarding delay
+COMP000008,CUST00204,AG021,2024-09-05 22:38:00,,Other,Service Request,Critical,In Progress,Email ,internet,,3.0,No,Request not completed
+COMP000009,CUST00164,AG024,2025-04-22 03:51:00,2025-04-30 06:51:00,Other,Service Request,Critical,Closed,Call,TV,195.0,,No,Customer reported service issue
+COMP000010,CUST00079,AG015,2025-07-20 18:37:00,2025-07-23 22:37:00,Package/Plan,Subscription,Medium,Closed,Mobile App,internet,76.0,3.0,No,Complaint regarding delay
+COMP000011,CUST00072,AG032,2025-04-16 05:46:00,2025-04-18 01:46:00,Other,General Inquiry,Low,Resolved,Walk-in,Mobile,44.0,,Yes,Complaint regarding delay
+COMP000012,CUST00119,AG010,2026-02-21 00:26:00,,Billing,Incorrect Charge,urgent,In Progress,Walk-in,,,-1,Yes,Payment issue
+COMP000013,CUST00273,AG001,2025-11-06 15:01:00,,Other,General Inquiry,High,Open,Walk-in,Mobile ,,1.0,No,Billing discrepancy reported
+COMP000014,CUST00099,AG017,2024-04-08 16:09:00,,Internet Connectivity,Frequent Disconnection,High,In Progress,Mobile App,Internet,,3.0,No,Connection unstable
+COMP000015,,AG025,,,SIM/Activation,Verification,Critical,Open,Call,Mobile,,,No,Customer reported service issue
+COMP000016,CUST00049,AG003,2026-05-15 13:41:00,2026-05-21 14:41:00,Other,General Inquiry,Medium,Resolved,Walk-in,,145.0,3.0,Yes,Customer reported service issue
+COMP000017,CUST00092,,2025-07-10 18:42:00,,Package/Plan,Data Limit,Low,Open,Email,Landline,,,No,Customer reported service issue
+COMP000018,CUST00200,AG035,2024-06-15 18:15:00,,Package/Plan,Data Limit,Critical,Escalated,Email,Internet,,5.0,No,Customer reported service issue
+COMP000019,CUST00175,AG026,2025-03-23 07:53:00,,Internet Connectivity,Frequent Disconnection,Low,Open,Live Chat,,,4.0,No,Request not completed
+COMP000020,CUST00195,AG019,2025-03-18 05:43:00,,Account,Login Issue,Low,Escalated,Call,Mobile ,,2.0,No,Complaint regarding delay
+COMP000021,CUST00047,AG020,2026-01-27 12:20:00,unknown,Mobile Network,Data Speed,High,Resolved,Live Chat,Internet,28.0,2.0,Yes,Billing discrepancy reported
+COMP000022,CUST00209,AG006,2025-04-04 17:35:00,,Account,Account Update,Low,RESOLVED ,Walk-in,internet,,,No,Customer reported service issue
+COMP000023,CUST00287,AG016,2025-02-27 12:49:00,,Package/Plan,Package Change,Critical,Open,Email,Landline,,3.0,No,Request not completed
+COMP000024,CUST00216,AG005,2024-05-29 02:10:00,2024-06-01 01:10:00,Other,Service Request,High,Closed,Email,,71.0,5.0,No,Connection unstable
+COMP000025,CUST00195,AG022,2024-05-18 09:00:00,2024-05-21 23:00:00,Internet Connectivity,Router Issue,High,Closed,Mobile App,Landline,86.0,3.0,No,Payment issue
+COMP000026,CUST00150,AG032,2025-05-05 10:11:00,2025-05-08 20:11:00,SIM/Activation,SIM Replacement,High,Closed,Mobile App,Mobile ,82.0,,No,Request not completed
+COMP000027,CUST00093,AG002,2025-07-31 06:37:00,,Internet Connectivity,Router Issue,Medium,Escalated,Mobile App,Mobile ,,,Yes,Connection unstable
+COMP000028,CUST00130,AG028,2024-05-22 20:19:00,,Other,Service Request,Low,resolved,Mobile App,,,N/A,No,Payment issue
+COMP000029,CUST00275,AG006,2025-07-10 01:50:00,2025-07-17 13:50:00,Account,Login Issue,Medium,Resolved,Live Chat,Landline,180.0,,Yes,Payment issue
+COMP000030,CUST00006,AG015,2026-02-09 10:50:00,2026-02-10 14:50:00,Account,Password Reset,Medium,Closed,Mobile App,internet,28.0,4.0,No,Complaint regarding delay
+COMP000031,CUST00152,AG006,2024-12-19 00:30:00,,Mobile Network,Weak Signal,Medium,Open,Live Chat,Mobile ,,0,No,Billing discrepancy reported
+COMP000032,CUST00232,AG020,2024-12-22 15:06:00,2024-12-30 08:06:00,Other,General Inquiry,Low,Closed,Call,internet,185.0,,Yes,Complaint regarding delay
+COMP000033,CUST00283,AG028,2026-01-28 07:33:00,,Mobile Network,Data Speed,Medium,In Progress,Mobile App,Landline,,2.0,No,Connection unstable
+COMP000034,CUST00231,AG025,2026-01-25 19:56:00,,Billing,Incorrect Charge,Medium,In Progress,Email,Mobile ,,0,Yes,Payment issue
+COMP000035,CUST00101,AG017,2026-03-29 17:11:00,2026-04-02 05:11:00,Internet Connectivity,Router Issue,High,Resolved,Walk-in,Broadband,84.0,5.0,No,Payment issue
+COMP000036,CUST00089,AG020,2024-12-22 11:54:00,2024-12-29 02:54:00,Internet Connectivity,Slow Internet,Medium,Closed,WhatsApp,Internet,159.0,2.0,No,Customer reported service issue
+COMP000037,CUST00199,AG009,2025-01-17 22:09:00,,Mobile Network,Data Speed,Critical,Escalated,Email,,,,No,Payment issue
+COMP000038,CUST00162,AG004,2025-05-16 09:08:00,,Mobile Network,No Coverage,high,In Progress,Mobile App,Landline,,2.0,No,Payment issue
+COMP000039,CUST00228,AG006,2025-02-22 21:31:00,2025-03-02 11:31:00,Other,Other,Low,Closed,Email,Mobile ,182.0,1.0,No,Billing discrepancy reported
+COMP000040,CUST00262,AG008,2024-06-21 14:36:00,2024-06-27 11:36:00,Package/Plan,Data Limit,High,Closed,Walk-in,Mobile,141.0,,No,Payment issue
+COMP000041,CUST00153,AG003,2025-03-11 03:47:00,,SIM/Activation,Verification,High,In Progress,Live Chat,Internet,,4.0,Yes,Billing discrepancy reported
+COMP000042,CUST00220,AG009,2026-04-10 23:37:00,2026-04-20 04:37:00,SIM/Activation,SIM Replacement,Medium,Resolved,Call,internet,221.0,5.0,No,Payment issue
+COMP000043,CUST00137,,2024-11-27 22:18:00,2024-12-04 01:18:00,Mobile Network,Weak Signal,Medium,Resolved,Mobile App,Mobile,147.0,3.0,No,Complaint regarding delay
+COMP000044,CUST00127,AG026,2024-09-12 04:45:00,2024-09-21 01:45:00,Mobile Network,Data Speed,Medium,Resolved,Walk-in,Mobile ,213.0,,No,Connection unstable
+COMP000045,CUST00207,AG018,2024-03-18 20:50:00,,Other,Other,High,Open,Mobile App,,,3.0,Yes,Complaint regarding delay
+COMP000046,CUST00033,AG026,2026-01-18 14:40:00,2026-01-27 16:40:00,Internet Connectivity,No Connection,Critical,Resolved,Email,,9999.0,3.0,No,Request not completed
+COMP000047,CUST00249,AG004,2025-07-14 18:08:00,,billing,Device Fault,Low,Escalated,Mobile App,Mobile,,1.0,No,Connection unstable
+COMP000048,CUST00155,AG018,2024-01-01 13:12:00,,Other,General Inquiry,High,In Progress,Live Chat,Internet,,3.0,No,Customer reported service issue
+COMP000049,CUST00220,AG007,2025-10-02 09:46:00,,Account,Login Issue,Medium,In Progress,Mobile App,Internet,,2.0,No,Payment issue
+COMP000050,CUST00062,,2024-01-10 00:44:00,2024-01-18 18:44:00,Other,Service Request,Medium,Resolved,Mobile App,Internet,210.0,2.0,No,Customer reported service issue
+COMP000051,CUST00196,AG999,2024-04-15 10:23:00,2024-04-16 22:23:00,Internet Connectivity,No Connection,Low,Resolved,Walk-in,Mobile,36.0,5.0,No,Connection unstable
+COMP000052,CUST00211,AG029,2026-01-09 06:40:00,,Device,Device Fault,Low,In Progress,Call,Landline,,,Yes,Payment issue
+COMP000053,CUST00127,AG006,2024-12-25 13:20:00,,Account,Login Issue,High,In Progress,Call,Mobile ,,2.0,No,Complaint regarding delay
+COMP000054,CUST00254,AG016,2024-10-29 20:03:00,,Account,Account Update,Low,In Progress,Walk-in,Mobile,,3.0,No,Billing discrepancy reported
+COMP000055,CUST00089,AG005,2026-05-31 18:26:00,2026-06-06 14:26:00,Account,Login Issue,Low,Resolved,Call,Mobile ,140.0,2.0,Yes,Customer reported service issue
+COMP000056,CUST00213,AG026,2025-06-02 09:40:00,,Account,Login Issue,Medium,Escalated,Live Chat,mobile,,3.0,Yes,Payment issue
+COMP000057,CUST00034,AG028,2026-04-07 04:34:00,2026-04-11 09:34:00,SIM/Activation,SIM Replacement,Low,Resolved,Email,Internet,101.0,4.0,Yes,Connection unstable
+COMP000058,CUST00062,AG009,2024-11-12 21:47:00,,Billing,Incorrect Charge,Medium,In Progress,Mobile App,internet,,5.0,No,Billing discrepancy reported
+COMP000059,CUST00061,AG002,2024-05-09 23:49:00,2024-05-17 19:49:00,Device,Compatibility,Critical,Resolved,Live Chat,Internet,188.0,3.0,Yes,Connection unstable
+COMP000060,CUST00291,AG011,2025-06-07 11:03:00,2025-06-16 15:03:00,Other,Service Request,Low,Closed,Walk-in,Internet,220.0,2.0,Yes,Customer reported service issue
+COMP000061,CUST00077,AG003,2024-09-07 01:30:00,2024-09-11 04:30:00,Billing,Payment Not Reflected,Medium,Resolved,Live Chat,TV,99.0,4.0,No,Request not completed
+COMP000062,CUST00027,AG034,2025-08-08 11:07:00,,Internet Connectivity,Slow Internet,Critical,Escalated,Call,,,,No,Request not completed
+COMP000063,CUST00189,AG999,2024-03-29 17:29:00,,Device,Configuration,Medium,Open,Mobile App,internet,,5.0,No,Billing discrepancy reported
+COMP000064,CUST00120,AG001,2024-06-03 00:59:00,2024-06-03 07:59:00,SIM/Activation,Porting Issue,Low,Closed,Mobile App,Mobile ,7.0,1.0,No,Payment issue
+COMP000065,CUST00144,AG015,2025-03-05 15:03:00,2025-13-01,SIM/Activation,Verification,High,In Progress,Mobile App,Internet,,5.0,Yes,Payment issue
+COMP000066,CUST00291,AG009,2025-10-14 12:04:00,,Mobile Network,Dropped Calls,High,Escalated,Live Chat,internet,,,No,Complaint regarding delay
+COMP000067,CUST00039,,2024-02-30,,Device,Device Fault,Low,In Progress,Email,Internet,,2.0,No,Connection unstable
+COMP000068,CUST00107,AG030,2025-02-20 03:34:00,2025-02-28 09:34:00,Device,Compatibility,Low,Resolved,Call,Landline,198.0,,No,Complaint regarding delay
+COMP000069,CUST00128,,2024-08-08 10:09:00,,Billing,Payment Not Reflected,Low,Open,Live Chat,Mobile ,,,No,Customer reported service issue
+COMP000070,CUST00128,AG007,2026-05-25 14:35:00,,Account,Login Issue,Low,Escalated,Call,Mobile,,,No,Billing discrepancy reported
+COMP000071,CUST00299,AG005,2026-04-23 12:23:00,,SIM/Activation,SIM Activation Delay,Low,Open,Email,,,,No,Customer reported service issue
+COMP000072,CUST00087,,2024-05-05 01:29:00,,Device,Compatibility,Critical,Open,Mobile App,Mobile,,4.0,No,Billing discrepancy reported
+COMP000073,CUST00077,AG016,2024-08-07 05:17:00,2024-08-12 00:17:00,Device,Configuration,High,Resolved,Mobile App,Broadband,115.0,5.0,No,Customer reported service issue
+COMP000074,,AG035,2024-10-13 12:08:00,2024-10-15 16:08:00,Internet Connectivity,Slow Internet,Critical,Closed,Live Chat,,52.0,5.0,No,Request not completed
+COMP000075,CUST00164,AG002,2025-02-01 08:11:00,,Device,Compatibility,Low,Open,call,internet,,,No,Billing discrepancy reported
+COMP000076,CUST00029,AG015,2024-09-10 21:15:00,2024-09-16 14:15:00,Internet Connectivity,Router Issue,High,Resolved,Email,Landline,137.0,2.0,No,Complaint regarding delay
+COMP000077,CUST00289,AG013,2025-08-28 00:45:00,2025-09-03 02:45:00,Device,Compatibility,High,Resolved,Email,,146.0,1.0,Yes,Customer reported service issue
+COMP000078,CUST00245,AG013,2025-09-08 07:01:00,,SIM/Activation,SIM Replacement,High,Escalated,Email,internet,,1.0,Yes,Billing discrepancy reported
+COMP000079,CUST00187,,2026-03-03 03:54:00,,Mobile Network,No Coverage,Critical,Escalated,Walk-in,Internet,,3.0,No,Request not completed
+COMP000080,CUST00163,AG023,2024-06-10 23:27:00,2024-06-17 22:27:00,Mobile Network,Dropped Calls,Medium,Closed,Mobile App,Mobile ,167.0,,No,Billing discrepancy reported
+COMP000081,CUST00201,AG003,2026-01-16 00:44:00,,Mobile Network,Dropped Calls,High,Escalated,Walk-in,TV,,,Yes,Connection unstable
+COMP000082,CUST00178,,2024-12-05 23:04:00,,Mobile Network,Dropped Calls,Low,In Progress,Live Chat,,,1.0,No,Billing discrepancy reported
+COMP000083,CUST00056,AG004,2025-12-10 02:22:00,2025-12-18 12:22:00,SIM/Activation,Verification,Critical,Resolved,Mobile App,Landline,202.0,0.0,No,Connection unstable
+COMP000084,CUST00296,AG015,2025-07-13 12:06:00,2025-07-21 22:06:00,Device,Device Fault,Critical,Closed,Call,Mobile,202.0,3.0,Yes,Request not completed
+COMP000085,CUST00193,AG005,2024-04-17 02:21:00,,Package/Plan,Package Renewal,High,In Progress,Walk-in,,,,Yes,Connection unstable
+COMP000086,CUST00052,AG013,2025-09-13 13:10:00,,Mobile Network,Data Speed,High,Open,Live Chat,Mobile ,,2.0,Yes,Customer reported service issue
+COMP000087,CUST00028,AG028,2025-08-08 17:53:00,2025-08-10 09:53:00,Account,Login Issue,High,Closed,WhatsApp,,40.0,2.0,Yes,Customer reported service issue
+COMP000088,CUST00243,AG020,2024-06-23 20:18:00,,SIM/Activation,Verification,Critical,Open,Mobile App,Mobile ,,1.0,yes,Billing discrepancy reported
+COMP000089,CUST00135,AG017,2025-01-25 11:11:00,2025-01-25 23:11:00,Device,Device Fault,High,Closed,Walk-in,Mobile,12.0,2.0,Yes,Customer reported service issue
+COMP000090,CUST00117,AG025,2026-04-07 17:26:00,,Device,Configuration,Critical,Escalated,Walk-in,,,5.0,No,Connection unstable
+COMP000091,CUST00258,AG034,2024-03-21 12:57:00,,Package/Plan,Package Change,Low,Open,Mobile App,Landline,,2.0,No,Billing discrepancy reported
+COMP000092,CUST00076,AG017,2024-02-13 13:05:00,2024-02-15 17:05:00,Mobile Network,No Coverage,Low,Closed,Call,Broadband,52.0,5.0,No,Payment issue
+COMP000093,CUST00007,AG034,2026-05-27 08:33:00,2026-06-06 03:33:00,Device,Compatibility,Low,Closed,Mobile App,Landline,235.0,2.0,Yes,Customer reported service issue
+COMP000094,CUST00177,AG017,2026-03-15 09:55:00,,Internet Connectivity,Router Issue,Critical,Escalated,Walk-in,Internet ,,1.0,No,Request not completed
+COMP000095,CUST00203,AG022,2024-05-27 19:38:00,2024-05-28 05:38:00,Account,Password Reset,Medium,Closed,Call,,10.0,3.0,No,Customer reported service issue
+COMP000096,CUST00252,AG007,2026-04-17 09:19:00,2026-04-26 09:19:00,Device,Device Fault,Medium,Resolved,Live Chat,,216.0,,No,Request not completed
+COMP000097,CUST00227,AG027,2025-09-11 20:05:00,,Account,Password Reset,Critical,In Progress,Walk-in,internet,,,Yes,Payment issue
+COMP000098,CUST00207,AG034,2024-03-08 09:45:00,,Mobile Network,Weak Signal,Medium,Escalated,Email,TV,,,Yes,Billing discrepancy reported
+COMP000099,CUST00102,AG030,2025-04-12 01:58:00,2025-04-19 14:58:00,Billing ,Payment Not Reflected,Low,Resolved,Call,TV,181.0,3.0,No,Payment issue
+COMP000100,CUST00180,AG017,2024-06-30 15:37:00,,Other,Other,HIGH ,Pending,Live Chat,Mobile,,4.0,Yes,Billing discrepancy reported
+COMP000101,CUST00106,AG027,2026-05-27 07:41:00,,SIM/Activation,SIM Activation Delay,Low,In Progress,Mobile App,Landline,,,No,Payment issue
+COMP000102,CUST00141,AG025,2024-08-17 08:38:00,2024-08-24 23:38:00,Billing,Duplicate Bill,Critical,Resolved,Live Chat,TV,183.0,4.0,No,Complaint regarding delay
+COMP000103,CUST00192,AG019,2025-08-21 03:00:00,,Account,Account Update,Low,Escalated,Mobile App,Internet,,3.0,No,Complaint regarding delay
+COMP000104,CUST00077,AG016,2026-06-01 08:16:00,2026-06-03 09:16:00,Device,Device Fault,Critical,Resolved,Live Chat,Landline,49.0,,Yes,Complaint regarding delay
+COMP000105,CUST00199,AG013,2024-10-29 08:58:00,2024-11-02 16:58:00,Other,Service Request,Medium,Closed,Walk-in,,104.0,,No,Payment issue
+COMP000106,CUST00093,AG031,2026-05-15 05:53:00,,Package/Plan,Package Change,High,Escalated,Walk-in,Landline,,,No,Complaint regarding delay
+COMP000107,CUST00170,AG019,2024-08-15 11:14:00,2024-08-19 23:14:00,Internet Connectivity,Router Issue,Low,Resolved,Mobile App,Mobile,108.0,,Yes,Connection unstable
+COMP000108,CUST00153,AG010,2025-05-27 03:55:00,2025-06-01 19:55:00,SIM/Activation,SIM Replacement,Medium,Closed,Live Chat,Broadband,136.0,5.0,No,Billing discrepancy reported
+COMP000109,CUST00250,AG012,2026-06-02 22:11:00,,Device,Compatibility,Low,Open,Call,,,3.0,No,Billing discrepancy reported
+COMP000110,,AG026,2025-05-16 02:08:00,,Mobile Network,Data Speed,Critical,Escalated,Mobile App,Mobile,,1.0,No,Complaint regarding delay
+COMP000111,CUST00098,AG001,2024-01-15 10:48:00,,Device,Configuration,Medium,Escalated,Email,internet,,3.0,No,Customer reported service issue
+COMP000112,CUST00034,AG020,2025-05-30 18:19:00,,Account,Account Update,Critical,In Progress,,internet,,4.0,No,Request not completed
+COMP000113,CUST00117,AG009,2025-01-02 06:10:00,2025-01-02 11:10:00,Other,General Inquiry,Low,Closed,Walk-in,Landline,5.0,1.0,No,Complaint regarding delay
+COMP000114,,AG004,2025-01-19 20:16:00,,Billing,Incorrect Charge,Low,Escalated,Call,Internet,,4.0,No,Connection unstable
+COMP000115,CUST00106,AG001,2025-07-14 08:30:00,,Internet Connectivity,Frequent Disconnection,Critical,In Progress,Call,Mobile ,,5.0,No,Connection unstable
+COMP000116,,AG007,2025-06-07 23:39:00,,Internet Connectivity,Router Issue,Medium,Open,Walk-in,TV,,,No,Payment issue
+COMP000117,CUST00021,AG014,2025-01-01 22:26:00,2025-01-03 16:26:00,SIM/Activation,Verification,High,Resolved,Email,Mobile,42.0,1.0,Yes,Customer reported service issue
+COMP000118,CUST00039,AG007,2024-06-01 02:49:00,,Other,Service Request,Medium,Escalated,Mobile App,Mobile ,,3.0,No,Customer reported service issue
+COMP000119,CUST00149,AG021,2026-04-12 05:55:00,,Internet Connectivity,Router Issue,Low,Open,Call,mobile,,1.0,No,Complaint regarding delay
+COMP000120,CUST00138,AG006,2024-12-02 11:57:00,2024-12-09 03:57:00,Mobile Network,No Coverage,High,Closed,Email,Internet,160.0,4.0,No,Connection unstable
+COMP000121,CUST00216,AG011,2026-05-05 12:44:00,2026-05-14 01:44:00,Package/Plan,Package Renewal,Medium,Closed,Call,Landline,205.0,1.0,No,Payment issue
+COMP000122,CUST00195,AG002,2026-04-01 18:43:00,2026-04-03 17:43:00,Other,Other,Medium,Closed,Mobile App,,47.0,1.0,No,Connection unstable
+COMP000123,CUST00269,AG015,2024-03-05 08:41:00,2024-03-05 12:41:00,Billing,Duplicate Bill,Low,Resolved,Mobile App,TV,4.0,4.0,No,Complaint regarding delay
+COMP000124,CUST00028,AG011,2024-06-01 17:57:00,,Account,Password Reset,HIGH ,Escalated,Mobile App,Landline,,1.0,No,Request not completed
+COMP000125,CUST00115,AG025,2024-12-04 08:03:00,,SIM/Activation,Verification,Medium,Escalated,Call,,,4.0,No,Customer reported service issue
+COMP000126,CUST00010,AG027,2025-04-02 10:07:00,2025-04-10 09:07:00,Other,General Inquiry,Low,Closed,Call,Mobile ,191.0,5.0,No,Complaint regarding delay
+COMP000127,CUST00115,AG022,2024-12-15 11:52:00,,Other,Other,Critical,Open,Live Chat,,,1.0,Yes,Complaint regarding delay
+COMP000128,CUST00268,AG007,2024-01-03 10:22:00,2024-01-09 07:22:00,SIM/Activation,SIM Activation Delay,Medium,Resolved,Mobile App,Landline,141.0,,No,Customer reported service issue
+COMP000129,CUST00202,AG013,2025-09-17 06:12:00,,Package/Plan,Data Limit,Low,Open,Mobile App,Mobile,,,Yes,Connection unstable
+COMP000130,CUST00256,AG004,2025-11-05 18:32:00,,Other,Other,Critical,In Progress,Walk-in,mobile,,5.0,No,Complaint regarding delay
+COMP000131,CUST00165,AG025,2026-01-18 04:06:00,2026-01-25 05:06:00,Mobile Network,Data Speed,Medium,Closed,Live Chat,Broadband,169.0,3.0,No,Connection unstable
+COMP000132,CUST00154,AG021,2024-05-21 13:38:00,,Mobile Network,Dropped Calls,Medium,Escalated,Email,Mobile ,,,No,Complaint regarding delay
+COMP000133,CUST00278,AG021,2025-12-28 20:11:00,,Mobile Network,Weak Signal,High,Escalated,Walk-in,,,5.0,No,Complaint regarding delay
+COMP000134,CUST00268,AG025,2026-06-17 13:51:00,,Package/Plan,Package Change,Low,Open,Call,TV,,3.0,No,Request not completed
+COMP000135,CUST00278,AG029,2024-05-29 01:44:00,2024-05-31 06:44:00,Package/Plan,Package Renewal,Medium,Resolved,Walk-in,Broadband,53.0,2.0,No,Complaint regarding delay
+COMP000136,CUST00028,AG017,2025-01-25 12:26:00,2025-01-31 10:26:00,Billing,Refund Request,Critical,Resolved,Email,internet,142.0,,No,Complaint regarding delay
+COMP000137,,,2024-10-28 14:11:00,,SIM/Activation,SIM Activation Delay,Critical,Open,Call,Broadband,,3.0,No,Billing discrepancy reported
+COMP000138,CUST00080,AG021,2025-08-21 08:00:00,2025-08-26 08:00:00,Mobile Network,Weak Signal,High,Resolved,Mobile App,internet,120.0,1.0,No,Payment issue
+COMP000139,CUST00082,AG035,2024-07-07 16:04:00,,SIM/Activation,Verification,high,Escalated,Live Chat,TV,,2.0,No,Request not completed
+COMP000140,CUST00272,AG001,2024-10-27 06:48:00,,Device,Device Fault,High,Escalated,Mobile App,TV,,,No,Customer reported service issue
+COMP000141,CUST00145,AG034,2025-01-25 03:24:00,2025-01-30 22:24:00,Device,Compatibility,Critical,Resolved,Mobile App,Mobile,139.0,3.0,No,Request not completed
+COMP000142,CUST00274,AG005,2024-04-08 05:49:00,,Internet Connectivity,No Connection,Medium,Escalated,Mobile App,Internet,,2.0,No,Complaint regarding delay
+COMP000143,CUST00236,AG003,2026-02-03 21:09:00,,Internet Connectivity,Slow Internet,Low,Open,Call,Landline,,,No,Payment issue
+COMP000144,CUST00199,AG026,2025-08-11 07:58:00,2025-08-15 16:58:00,Internet Connectivity,Router Issue,High,Resolved,Call,Broadband,-12.0,,Yes,Payment issue
+COMP000145,CUST00300,AG005,2025-10-18 23:39:00,,Billing,Duplicate Bill,Low,Open,Live Chat,Mobile ,,5.0,Yes,Request not completed
+COMP000146,CUST00243,AG015,2025-01-25 12:52:00,,Other,General Inquiry,Critical,Open,Walk-in,Mobile ,,,No,Request not completed
+COMP000147,CUST00073,AG001,2024-01-12 17:55:00,,Device,Configuration,Critical,Escalated,Walk-in,Internet,,3.0,No,Complaint regarding delay
+COMP000148,CUST00073,AG015,2024-08-04 13:57:00,,Device,Configuration,High,Escalated,Email,Internet,,2.0,Yes,Payment issue
+COMP000149,CUST00035,AG013,2025-10-22 17:04:00,2025-10-29 21:04:00,Other,Other,Critical,Resolved,Live Chat,internet,172.0,2.0,No,Customer reported service issue
+COMP000150,CUST00163,AG022,2025-09-26 02:57:00,,Package/Plan,Data Limit,Medium,In Progress,Walk-in,internet,,,No,Connection unstable
+COMP000151,CUST00224,AG024,2024-01-05 10:15:00,,Mobile Network,Dropped Calls,High,In Progress,Mobile App,,,4.0,No,Request not completed
+COMP000152,CUST00042,AG009,2025-07-18 03:11:00,,Other,Other,Medium,Escalated,Live Chat,Internet,,,,Customer reported service issue
+COMP000153,CUST00109,AG017,2026-04-12 18:37:00,2026-04-20 23:37:00,Billing,Payment Not Reflected,Medium,Closed,Live Chat,Broadband,197.0,2.0,No,Billing discrepancy reported
+COMP000154,CUST00258,AG016,2025-05-28 16:05:00,2025-06-01 14:05:00,Other,Other,Medium,Closed,Walk-in,Landline,94.0,4.0,No,Billing discrepancy reported
+COMP000155,CUST00113,AG015,2026-01-23 23:30:00,2026-01-24 10:30:00,Mobile Network,Weak Signal,High,Resolved,Live Chat,TV,11.0,1.0,No,Payment issue
+COMP000156,CUST00024,AG021,2025-02-01 15:58:00,2025-02-11 01:58:00,Device,Device Fault,High,Closed,Live Chat,Landline,226.0,4.0,No,Request not completed
+COMP000157,CUST00265,AG023,2025-06-13 08:24:00,,Internet Connectivity,Router Issue,Critical,In Progress,Walk-in,Mobile,,5.0,No,Connection unstable
+COMP000158,CUST00077,AG024,2024-08-23 02:32:00,2024-08-25 09:32:00,Mobile Network,Weak Signal,Medium,Resolved,Email ,internet,55.0,,Yes,Connection unstable
+COMP000159,CUST00211,AG003,2025-05-05 06:37:00,,Other,General Inquiry,Medium,In Progress,Email,Mobile,,5.0,No,Customer reported service issue
+COMP000160,CUST00289,AG019,2024-09-21 05:33:00,2024-09-27 15:33:00,Mobile Network,Weak Signal,Medium,Closed,Mobile App,,154.0,,No,Billing discrepancy reported
+COMP000161,CUST00299,AG012,2026-04-30 13:38:00,,SIM/Activation,Porting Issue,Medium,In Progress,Live Chat,,,5.0,Yes,Billing discrepancy reported
+COMP000162,CUST00104,AG033,2025-01-29 04:06:00,,Account,Password Reset,Critical,Open,WhatsApp,Internet,,2.0,No,Payment issue
+COMP000163,CUST00048,AG999,2026-06-17 17:32:00,,Billing,Incorrect Charge,Critical,Open,Walk-in,Broadband,,3.0,Yes,Complaint regarding delay
+COMP000164,CUST00295,AG009,2024-08-22 15:50:00,2024-08-26 09:50:00,Account,Account Update,Critical,Closed,Email,Internet,90.0,3.0,Unknown,Request not completed
+COMP000165,CUST00296,AG034,2024-01-06 22:47:00,,SIM/Activation,SIM Activation Delay,Critical,Open,Email,internet,,4.0,No,Customer reported service issue
+COMP000166,CUST00275,AG024,2025-03-12 20:37:00,2025-03-15 15:37:00,Mobile Network,No Coverage,Critical,Resolved,Email,Broadband,67.0,5.0,No,Billing discrepancy reported
+COMP000167,CUST00296,AG026,2025-07-26 17:30:00,2025-07-30 00:30:00,Device,Configuration,Medium,Resolved,Call,TV,79.0,4.0,No,Customer reported service issue
+COMP000168,CUST00282,AG004,2025-06-04 12:50:00,2025-06-13 02:50:00,SIM/Activation,SIM Replacement,Critical,Resolved,Call,Internet,206.0,,No,Connection unstable
+COMP000169,CUST00190,AG003,2024-03-31 02:16:00,,Account,Password Reset,Critical,resolved,Mobile App,Mobile ,,6.0,Yes,Billing discrepancy reported
+COMP000170,CUST00147,AG033,2025-03-25 00:12:00,,Other,Other,Medium,Escalated,Walk-in,Landline,,,Yes,Request not completed
+COMP000171,CUST00142,AG023,2025-11-01 00:10:00,,SIM/Activation,Verification,Critical,Open,Walk-in,TV,,5.0,Yes,Complaint regarding delay
+COMP000172,CUST00299,AG018,2024-04-02 17:18:00,,Internet Connectivity,No Connection,Medium,Escalated,Mobile App,Broadband,,5.0,Yes,Request not completed
+COMP000173,CUST00038,AG022,2025-02-20 16:06:00,,Mobile Network,Weak Signal,High,Escalated,Walk-in,Mobile ,,,No,Connection unstable
+COMP000174,CUST00235,AG002,2026-02-27 07:48:00,2026-03-07 14:48:00,Other,Service Request,Low,Resolved,Live Chat,Internet,199.0,4.0,No,Complaint regarding delay
+COMP000175,CUST00275,AG017,2026-03-30 10:26:00,2026-04-04 23:26:00,SIM/Activation,SIM Replacement,High,Resolved,Call,Broadband,133.0,,No,Customer reported service issue
+COMP000176,CUST00294,AG013,2025-05-02 10:22:00,,Mobile Network,Data Speed,Medium,In Progress,Email ,TV,,,No,Billing discrepancy reported
+COMP000177,CUST00183,AG007,2024-07-26 07:53:00,,SIM/Activation,SIM Activation Delay,Low,Escalated,Mobile App,Mobile,,,Yes,Connection unstable
+COMP000178,CUST00141,AG033,2025-09-27 10:31:00,,Device,Compatibility,Critical,Escalated,Email,Landline,,1.0,No,Connection unstable
+COMP000179,CUST00235,,2025-05-29 11:25:00,,Billing,Payment Not Reflected,High,In Progress,Call,Mobile,,,No,Connection unstable
+COMP000180,CUST00281,AG018,2024-11-29 11:39:00,2024-12-01 11:39:00,Internet Connectivity,Router Issue,High,Resolved,Email ,Landline,48.0,4.0,No,Billing discrepancy reported
+COMP000181,CUST00231,AG009,2025-12-18 11:23:00,2025-12-21 11:23:00,Account,Password Reset,Medium,Closed,Call,Mobile ,72.0,,No,Payment issue
+COMP000182,CUST00077,AG001,2026-05-26 12:12:00,,Account,Login Issue,Critical,In Progress,Mobile App,Landline,,,No,Connection unstable
+COMP000183,CUST00025,AG011,2024-09-13 17:54:00,,Package/Plan,Package Renewal,Medium,Escalated,Live Chat,,,,Yes,Connection unstable
+COMP000184,CUST00286,,2024-09-23 11:23:00,,Device,Compatibility,High,Escalated,Call,Broadband,,1.0,No,Complaint regarding delay
+COMP000185,CUST00090,,2025-08-13 18:41:00,,SIM/Activation,Porting Issue,High,Escalated,Live Chat,,,,No,Customer reported service issue
+COMP000186,CUST00086,AG022,2025-09-20 09:29:00,,Account,Account Update,Critical,In Progress,Call,Internet,,2.0,No,Billing discrepancy reported
+COMP000187,CUST00203,AG029,2024-11-20 20:18:00,2024-11-27 07:18:00,Device,Compatibility,Critical,Resolved,Mobile App,Landline,155.0,2.0,Yes,Billing discrepancy reported
+COMP000188,CUST00108,AG007,2025-11-08 08:47:00,,SIM/Activation,SIM Activation Delay,Low,Open,Mobile App,Mobile,,1.0,No,Payment issue
+COMP000189,CUST00044,AG025,2024-04-16 08:39:00,,Internet Connectivity,Frequent Disconnection,Medium,In Progress,Email,Mobile ,,4.0,No,Billing discrepancy reported
+COMP000190,CUST00167,AG030,2024-01-30 01:42:00,2024-02-08 06:42:00,Mobile Network,No Coverage,Critical,Resolved,Email,Landline,221.0,5.0,No,Complaint regarding delay
+COMP000191,CUST00159,AG031,2025-06-20 20:40:00,,Account,Password Reset,Medium,Escalated,Call,,,3.0,No,Connection unstable
+COMP000192,CUST00268,AG009,2024-06-08 09:00:00,,Package/Plan,Data Limit,High,Open,Mobile App,Mobile,,,No,Connection unstable
+COMP000193,CUST00119,AG024,2024-01-10 13:51:00,2024-01-16 22:51:00,Package/Plan,Package Change,Critical,Resolved,Walk-in,Broadband,153.0,4.0,No,Billing discrepancy reported
+COMP000194,CUST00217,AG034,2026-04-28 12:14:00,2026-04-29 09:14:00,Account,Password Reset,High,Resolved,Live Chat,Mobile ,21.0,4.0,No,Customer reported service issue
+COMP000195,CUST00232,AG032,2024-05-19 09:07:00,2024-05-26 00:07:00,Mobile Network,Dropped Calls,High,Closed,Call,Landline,159.0,1.0,Yes,Billing discrepancy reported
+COMP000196,CUST00005,AG010,2024-10-15 08:08:00,2024-10-23 03:08:00,Internet Connectivity,Slow Internet,Critical,Closed,Email,internet,187.0,4.0,No,Connection unstable
+COMP000197,CUST00170,AG010,2025-04-19 22:50:00,,Device,Device Fault,High,Open,Mobile App,Internet,,5.0,No,Billing discrepancy reported
+COMP000198,CUST00007,AG016,2026-05-11 08:52:00,2026-05-20 05:52:00,SIM/Activation,Verification,Critical,Closed,Email,Mobile,213.0,2.0,No,Complaint regarding delay
+COMP000199,CUST00160,,2025-06-17 21:13:00,2025-06-22 01:13:00,Internet Connectivity,No Connection,Low,Closed,Walk-in,Internet,100.0,3.0,No,Complaint regarding delay
+COMP000200,CUST00112,,2024-07-22 11:56:00,,Package/Plan,Package Change,Critical,Open,Live Chat,Mobile,,2.0,No,Payment issue
+COMP000201,CUST00298,AG031,2025-02-09 07:00:00,,Mobile Network ,No Connection,High,Open,Call,TV,,2.0,No,Customer reported service issue
+COMP000202,CUST00183,AG035,2026-02-16 20:03:00,,Device,Device Fault,Medium,Open,Mobile App,TV,,3.0,No,Connection unstable
+COMP000203,CUST00069,AG003,2024-01-22 22:24:00,2024-01-30 16:24:00,SIM/Activation,Verification,Critical,Resolved,Walk-in,Mobile ,186.0,5.0,No,Billing discrepancy reported
+COMP000204,CUST00284,AG034,2025-07-10 11:20:00,2025-07-13 10:20:00,Mobile Network,Dropped Calls,Critical,Closed,Live Chat,Mobile ,71.0,5.0,No,Connection unstable
+COMP000205,CUST00095,AG024,2026-03-05 20:32:00,2026-03-13 16:32:00,Internet,Refund Request,High,Closed,Call,Broadband,188.0,2.0,No,Payment issue
+COMP000206,CUST00165,AG034,,2025-09-26 06:20:00,Mobile Network,Weak Signal,Low,Closed,Email,Landline,165.0,,Yes,Billing discrepancy reported
+COMP000207,CUST00293,AG025,2025-05-12 06:06:00,,Internet Connectivity,Router Issue,High,Open,Call,internet,,2.0,Yes,Customer reported service issue
+COMP000208,CUST00240,AG004,2025-11-02 15:59:00,,SIM/Activation,Porting Issue,Critical,Open,Live Chat,Mobile,,,No,Payment issue
+COMP000209,CUST00111,,2026-01-21 02:53:00,2026-01-21 22:53:00,Billing,Incorrect Charge,Low,Resolved,Email,Broadband,20.0,2.0,No,Payment issue
+COMP000210,CUST00286,AG007,2025-08-06 20:11:00,,SIM/Activation,Porting Issue,Critical,Escalated,Mobile App,Internet,,2.0,No,Payment issue
+COMP000211,CUST00274,,2025-05-31 10:42:00,,Account,Account Update,High,In Progress,Live Chat,internet,9999.0,,No,Connection unstable
+COMP000212,CUST00124,AG014,2026-04-25 23:20:00,,Account,Account Update,High,Escalated,Live Chat,,,4.0,No,Customer reported service issue
+COMP000213,CUST00070,,2024-10-18 19:01:00,,Billing,Duplicate Bill,Low,Escalated,Live Chat,TV,,2.0,No,Customer reported service issue
+COMP000214,CUST00293,AG003,2025-07-20 16:35:00,,Package/Plan,Subscription,High,Escalated,Email,Landline,,3.0,No,Payment issue
+COMP000215,CUST00293,AG014,2024-08-26 08:51:00,2024-08-27 08:51:00,SIM/Activation,SIM Activation Delay,High,Resolved,Mobile App,Landline,24.0,4.0,Yes,Payment issue
+COMP000216,,AG004,2024-02-08 23:51:00,,Package/Plan,Data Limit,High,Escalated,Mobile App,Broadband,,,Yes,Billing discrepancy reported
+COMP000217,CUST00157,AG021,2025-10-11 20:24:00,,Billing,Refund Request,High,Open,Email ,TV,,2.0,Yes,Complaint regarding delay
+COMP000218,CUST00047,AG019,2025-04-01 19:36:00,,Account,Account Update,Medium,Escalated,Email,internet,,1.0,No,Payment issue
+COMP000219,CUST00205,AG009,2025-07-15 12:16:00,,Billing,Refund Request,Critical,Open,Walk-in,TV,,4.0,No,Complaint regarding delay
+COMP000220,CUST00127,AG018,2025-07-28 19:47:00,,SIM/Activation,Verification,high,Escalated,Walk-in,Internet,,1.0,No,Connection unstable
+COMP000221,CUST00013,AG011,2024-12-22 06:20:00,2024-12-28 15:20:00,Device,Compatibility,Critical,Resolved,Walk-in,Landline,153.0,4.0,Yes,Billing discrepancy reported
+COMP000222,CUST00058,AG016,2025-12-02 11:09:00,,SIM/Activation,SIM Replacement,High,Open,Call,internet,,,Yes,Request not completed
+COMP000223,CUST00276,AG035,2025-04-27 00:21:00,,Other,Other,High,In Progress,Walk-in,,,5.0,No,Complaint regarding delay
+COMP000224,,AG004,2025-01-20 18:57:00,,Billing,Duplicate Bill,high,Escalated,Walk-in,Mobile ,,1.0,No,Complaint regarding delay
+COMP000225,CUST00185,AG002,2024-03-09 12:42:00,2024-03-16 14:42:00,Billing,Duplicate Bill,Critical,Resolved,Email,Broadband,170.0,5.0,Yes,Request not completed
+COMP000226,CUST00096,AG030,2026-06-06 19:34:00,,Other,Other,Low,Open,Call,TV,9999.0,5.0,No,Request not completed
+COMP000227,CUST00178,AG023,2025-02-06 23:10:00,,Other,Other,urgent,Open,Email,Mobile ,,,Yes,Complaint regarding delay
+COMP000228,CUST00285,,2026-06-18 12:56:00,,Package/Plan,Package Change,Medium,Open,Live Chat,Broadband,,,No,Customer reported service issue
+COMP000229,CUST00214,AG010,2025-06-17 21:39:00,,Account,Account Update,High,In Progress,Walk-in,internet,,4.0,No,Billing discrepancy reported
+COMP000230,CUST00071,AG034,2024-02-30,,Mobile Network,Dropped Calls,Critical,In Progress,Email,Landline,,3.0,Yes,Payment issue
+COMP000231,CUST00016,AG027,2024-07-07 10:53:00,,Internet Connectivity,Router Issue,High,In Progress,Mobile App,Mobile ,,2.0,No,Customer reported service issue
+COMP000232,CUST00137,AG015,2024-07-08 00:48:00,,Mobile Network,Dropped Calls,Medium,Escalated,Call,internet,,1.0,No,Billing discrepancy reported
+COMP000233,CUST00199,AG009,2025-12-30 20:23:00,,Other,General Inquiry,Medium,In Progress,Email,Mobile,,4.0,Yes,Request not completed
+COMP000234,CUST00105,AG029,2024-08-15 23:42:00,,Account,Password Reset,Critical,In Progress,Live Chat,,,2.0,No,Connection unstable
+COMP000235,CUST00161,AG035,2025-09-14 23:52:00,2025-09-22 16:52:00,Billing,Incorrect Charge,Low,RESOLVED ,Mobile App,,185.0,,Yes,Billing discrepancy reported
+COMP000236,CUST00026,AG029,2026-01-22 01:35:00,2026-01-27 14:35:00,Account,Account Update,High,Closed,Live Chat,Fiber,133.0,2.0,No,Request not completed
+COMP000237,CUST00238,AG029,2025-12-07 16:57:00,,Billing,Incorrect Charge,Low,In Progress,Email,Landline,,4.0,No,Request not completed
+COMP000238,CUST00104,AG006,2024-01-26 05:29:00,,Other,Service Request,High,Escalated,Email,Internet,,1.0,Yes,Complaint regarding delay
+COMP000239,CUST00197,AG033,2025-10-11 11:05:00,,Other,Other,Medium,Escalated,Mobile App,Broadband,,1.0,No,Request not completed
+COMP000240,CUST00215,AG029,2024-06-15 04:11:00,,Mobile Network,No Coverage,Medium,Open,Call,Landline,,2.0,Yes,Payment issue
+COMP000241,CUST00003,AG032,2024-01-13 14:31:00,2024-01-19 10:31:00,Package/Plan,Package Change,Medium,Closed,Walk-in,,140.0,4.0,No,Connection unstable
+COMP000242,CUST00281,AG014,2025-09-07 19:00:00,,Internet Connectivity,Slow Internet,Medium,In Progress,Email,Mobile,,,No,Customer reported service issue
+COMP000243,CUST00153,AG006,2026-05-24 01:42:00,,Mobile Network,Weak Signal,Low,Escalated,Mobile App,Landline,,2.0,No,Payment issue
+COMP000244,CUST00019,AG020,2025-04-11 23:37:00,2025-04-21 22:37:00,Mobile Network,No Coverage,High,Resolved,Mobile App,Internet,239.0,,No,Payment issue
+COMP000245,CUST00141,AG027,2024-10-26 15:08:00,,Internet Connectivity,No Connection,Medium,Open,Walk-in,Mobile,,1.0,Yes,Connection unstable
+COMP000246,CUST00270,AG023,2025-03-13 19:54:00,2025-03-16 14:54:00,Package/Plan,Package Change,Critical,Resolved,Walk-in,,67.0,4.0,No,Payment issue
+COMP000247,CUST00061,AG008,2025-12-26 09:12:00,,SIM/Activation,SIM Replacement,Critical,Open,Mobile App,Mobile,,3.0,No,Payment issue
+COMP000248,CUST00035,AG033,2024-01-12 20:12:00,unknown,SIM/Activation,Porting Issue,Low,Resolved,Call,internet,66.0,3.0,No,Complaint regarding delay
+COMP000249,CUST00174,,2026-05-02 05:12:00,2026-05-11 03:12:00,Billing,Payment Not Reflected,Critical,Resolved,Call,Landline,214.0,4.0,No,Complaint regarding delay
+COMP000250,CUST00212,,2026-06-04 17:57:00,2026-06-09 16:57:00,Other,General Inquiry,High,Resolved,Walk-in,internet,119.0,5.0,Yes,Billing discrepancy reported
+COMP000251,CUST00144,AG022,2026-03-29 11:04:00,,,Compatibility,Medium,In Progress,Walk-in,Broadband,,2.0,Yes,Request not completed
+COMP000252,CUST00255,AG024,2025-12-27 01:17:00,2025-12-28 00:17:00,Device,Compatibility,High,Closed,Email,Mobile ,23.0,2.0,Yes,Request not completed
+COMP000253,CUST00228,AG031,2026-03-07 06:58:00,,Billing,Refund Request,Medium,Open,Live Chat,,,,No,Request not completed
+COMP000254,CUST00068,AG003,2026-02-26 03:52:00,,Mobile Network,Data Speed,Critical,Escalated,Walk-in,Internet,,1.0,No,Customer reported service issue
+COMP000255,CUST00053,AG020,2024-12-07 14:56:00,,Internet Connectivity,Slow Internet,High,Open,Email,internet,,2.0,No,Request not completed
+COMP000256,CUST00061,AG011,2025-06-29 10:49:00,2025-07-06 14:49:00,Package/Plan,Data Limit,Low,Closed,Call,Internet,172.0,2.0,No,Payment issue
+COMP000257,CUST00126,AG020,2024-10-04 04:45:00,2024-10-10 07:45:00,Device,Configuration,High,Resolved,Walk-in,,147.0,1.0,No,Customer reported service issue
+COMP000258,CUST00045,AG012,2025-11-22 01:06:00,2025-11-22 15:06:00,Internet,Other,Critical,Closed,Walk-in,internet,14.0,3.0,No,Billing discrepancy reported
+COMP000259,CUST00048,AG999,2026-02-12 14:36:00,2025-13-01,Internet Connectivity,Slow Internet,Critical,In Progress,Live Chat,,,4.0,No,Billing discrepancy reported
+COMP000260,CUST00094,AG022,2026-05-31 19:16:00,2026-06-05 00:16:00,Mobile Network,No Coverage,Critical,Resolved,Mobile App,Mobile,101.0,1.0,No,Customer reported service issue
+COMP000261,CUST00145,AG009,2025-05-05 14:54:00,,Device,Configuration,Low,In Progress,Mobile App,Internet,,3.0,Yes,Request not completed
+COMP000262,CUST00125,AG031,2025-02-14 18:26:00,,Other,Service Request,Low,In Progress,Live Chat,TV,,,No,Connection unstable
+COMP000263,CUST00040,AG032,2025-07-11 22:15:00,,Device,Device Fault,,In Progress,Live Chat,Internet,,,No,Billing discrepancy reported
+COMP000264,CUST00195,AG004,2025-02-19 02:38:00,,Package/Plan,Package Renewal,Medium,Open,Email,Mobile,,,No,Complaint regarding delay
+COMP000265,CUST00296,AG014,2025-04-08 17:18:00,2025-04-15 07:18:00,Mobile Network,No Coverage,High,Closed,Walk-in,Mobile ,158.0,4.0,No,Customer reported service issue
+COMP000266,CUST00151,AG004,2025-09-18 16:25:00,,Billing,Incorrect Charge,High,In Progress,Call,Mobile ,,,Yes,Billing discrepancy reported
+COMP000267,CUST00196,AG028,2025-12-20 18:25:00,2025-12-28 09:25:00,Account,Password Reset,Medium,Resolved,Email,,183.0,2.0,No,Payment issue
+COMP000268,CUST00148,,2026-05-13 11:53:00,2026-05-15 03:53:00,Account,Password Reset,Medium,Closed,Email,Mobile,40.0,1.0,YES ,Billing discrepancy reported
+COMP000269,CUST00071,AG027,2025-11-04 13:08:00,,Other,Service Request,Critical,Open,Walk-in,Landline,,4.0,No,Payment issue
+COMP000270,CUST00218,AG032,2025-01-28 11:14:00,,Other,Other,Medium,In Progress,Walk-in,Mobile ,,4.0,No,Customer reported service issue
+COMP000271,CUST00298,AG006,2025-08-04 15:45:00,2025-08-05 20:45:00,Billing,Refund Request,High,Resolved,Mobile App,Internet,29.0,5.0,Yes,Billing discrepancy reported
+COMP000272,CUST00277,AG020,2025-10-07 23:42:00,,Other,Other,Low,Open,Live Chat,Mobile,,4.0,No,Payment issue
+COMP000273,CUST00151,AG003,2025-08-10 23:21:00,2025-08-14 18:21:00,Other,Other,High,Closed,Walk-in,Mobile ,91.0,1.0,No,Payment issue
+COMP000274,CUST00014,AG006,2025-08-09 01:42:00,2025-08-17 17:42:00,Mobile Network,Dropped Calls,Low,Resolved,Live Chat,Mobile ,208.0,2.0,No,Request not completed
+COMP000275,CUST00090,AG010,2024-01-15 23:07:00,,Package/Plan,Subscription,High,Escalated,Email,Mobile ,,,No,Connection unstable
+COMP000276,CUST00176,,2026-03-29 16:55:00,,Mobile Network,Dropped Calls,Medium,Open,Mobile App,Broadband,,,No,Billing discrepancy reported
+COMP000277,CUST00296,AG023,2026-01-13 20:10:00,,Other,General Inquiry,High,In Progress,Call,Mobile,,2.0,No,Connection unstable
+COMP000278,CUST00120,AG025,2024-11-04 15:47:00,,Other,Service Request,High,Escalated,Email,Broadband,,1.0,No,Connection unstable
+COMP000279,CUST00050,AG023,2025-11-25 10:33:00,,Billing ,Account Update,High,Open,Live Chat,Mobile ,,3.0,Yes,Request not completed
+COMP000280,CUST00100,AG012,2025-04-17 21:47:00,,Account,Account Update,Low,In Progress,Call,Internet,,1.0,No,Customer reported service issue
+COMP000281,CUST00146,AG999,2025-12-02 14:22:00,,Internet Connectivity,Slow Internet,Low,In Progress,Call,TV,,5.0,Yes,Complaint regarding delay
+COMP000282,CUST00290,AG012,2024-03-29 19:08:00,2024-04-05 20:08:00,Internet Connectivity,Slow Internet,Medium,RESOLVED ,Live Chat,Mobile ,169.0,4.0,Yes,Complaint regarding delay
+COMP000283,CUST00083,AG018,not a date,2024-10-13 07:44:00,Other,General Inquiry,Critical,Resolved,Mobile App,internet,66.0,0,No,Request not completed
+COMP000284,,AG032,2025-03-27 02:31:00,,Mobile Network,Weak Signal,Medium,In Progress,Walk-in,Broadband,,2.0,Yes,Connection unstable
+COMP000285,CUST00293,AG029,2024-04-15 01:04:00,,Package/Plan,Package Renewal,Critical,RESOLVED ,Email,Mobile,,1.0,No,Request not completed
+COMP000286,CUST00002,AG032,2025-12-17 10:57:00,2025-12-23 14:57:00,Mobile Network,Data Speed,Critical,Closed,Mobile App,Internet,148.0,5.0,No,Customer reported service issue
+COMP000287,CUST00275,,2025-12-06 15:07:00,,Account,Account Update,High,Escalated,Live Chat,Broadband,,1.0,Yes,Request not completed
+COMP000288,CUST00104,AG003,2024-03-23 14:48:00,2024-03-30 12:48:00,Device,Compatibility,,Resolved,Live Chat,Broadband,166.0,1.0,No,Connection unstable
+COMP000289,CUST00072,AG002,2025-10-09 14:47:00,,Internet Connectivity,No Connection,Critical,In Progress,Mobile App,Internet,,,No,Connection unstable
+COMP000290,CUST00173,AG003,2024-01-17 01:21:00,2025-13-01,Other,Service Request,Low,Open,Email,,,,No,Complaint regarding delay
+COMP000291,CUST00251,AG031,2024-03-14 01:47:00,,SIM/Activation,SIM Activation Delay,Medium,In Progress,Email,Mobile,,2.0,Yes,Request not completed
+COMP000292,CUST00033,AG007,2025-04-12 19:10:00,,Internet Connectivity,Slow Internet,Critical,Escalated,Walk-in,TV,,1.0,No,Connection unstable
+COMP000293,CUST00062,,2026-04-10 23:43:00,2026-04-14 11:43:00,Device,Configuration,Medium,Closed,Live Chat,TV,84.0,,Yes,Payment issue
+COMP000294,CUST00213,AG024,2024-12-09 02:07:00,2024-12-10 15:07:00,Mobile Network,Dropped Calls,Critical,Resolved,Email,Mobile,37.0,2.0,Yes,Complaint regarding delay
+COMP000295,CUST00004,AG006,2026-03-07 05:01:00,2026-03-08 02:01:00,Account,Password Reset,High,Closed,Mobile App,,21.0,,yes,Billing discrepancy reported
+COMP000296,CUST00123,,2025-10-17 08:33:00,2025-10-21 18:33:00,Mobile Network,Weak Signal,Medium,Closed,Mobile App,Internet,106.0,,No,Request not completed
+COMP000297,CUST00061,,2024-01-05 17:15:00,,Account,Login Issue,High,In Progress,Walk-in,TV,,4.0,No,Request not completed
+COMP000298,CUST00243,AG011,2024-07-17 03:50:00,,Billing,Incorrect Charge,Low,In Progress,Live Chat,Mobile ,,2.0,No,Request not completed
+COMP000299,CUST00027,,2025-09-23 14:02:00,,Device,Device Fault,Medium,Open,Call,,,5.0,Yes,Customer reported service issue
+COMP000300,CUST00167,AG021,2026-01-08 14:37:00,,SIM/Activation,SIM Replacement,Low,Escalated,Live Chat,TV,,1.0,YES ,Complaint regarding delay
+COMP000301,CUST00038,AG032,2026-06-09 06:24:00,,Account,Login Issue,Critical,In Progress,Email,TV,,5.0,No,Billing discrepancy reported
+COMP000302,CUST00184,,2025-01-17 04:29:00,,Account,Login Issue,High,In Progress,Email,Mobile,,,Yes,Request not completed
+COMP000303,CUST00176,AG019,2024-04-23 14:29:00,2024-04-25 10:29:00,Mobile Network,Dropped Calls,Medium,Closed,Walk-in,mobile,44.0,1.0,No,Payment issue
+COMP000304,CUST00237,AG028,2026-06-01 06:37:00,2026-06-10 05:37:00,Other,Other,Medium,Closed,Email,internet,215.0,4.0,No,Payment issue
+COMP000305,CUST00021,,2025-08-10 00:26:00,,Mobile Network,Weak Signal,Critical,Open,Walk-in,Broadband,,4.0,Yes,Connection unstable
+COMP000306,CUST00209,,2024-09-03 02:35:00,,Other,General Inquiry,High,Open,Live Chat,TV,,,Yes,Customer reported service issue
+COMP000307,CUST00293,AG002,2025-11-16 09:10:00,2025-11-25 13:10:00,Other,Service Request,Critical,Closed,Email,Broadband,220.0,2.0,No,Complaint regarding delay
+COMP000308,CUST00198,AG022,2025-12-21 20:00:00,,Other,Other,Low,Open,Live Chat,Broadband,,,No,Complaint regarding delay
+COMP000309,CUST00172,AG004,2026-03-17 21:05:00,,SIM/Activation,Porting Issue,Low,Escalated,Call,Broadband,,3.0,No,Payment issue
+COMP000310,CUST00035,AG014,2025-01-09 11:11:00,,Billing,Refund Request,High,Escalated,Email,Internet,,,No,Complaint regarding delay
+COMP000311,CUST00165,AG018,31/11/2025,,SIM/Activation,Verification,High,In Progress,Call,Internet,,3.0,No,Connection unstable
+COMP000312,CUST00241,AG035,2025-05-28 16:53:00,,Other,Service Request,Critical,Open,Walk-in,internet,,,Yes,Billing discrepancy reported
+COMP000313,CUST00148,,2024-03-30 02:25:00,,Other,General Inquiry,Low,In Progress,Email,Mobile ,,1.0,No,Connection unstable
+COMP000314,CUST00151,AG035,2026-06-14 06:33:00,,Mobile Network,Dropped Calls,Critical,Open,Live Chat,Broadband,,4.0,Yes,Request not completed
+COMP000315,CUST00267,AG027,2024-03-05 00:55:00,,SIM/Activation,Porting Issue,High,In Progress,Mobile App,,,4.0,No,Payment issue
+COMP000316,CUST00248,AG019,2026-03-19 09:10:00,2026-03-21 20:10:00,Mobile Network,Weak Signal,Medium,Resolved,Live Chat,Mobile ,59.0,4.0,No,Payment issue
+COMP000317,CUST00090,AG010,2025-12-29 17:18:00,,Mobile Network,Dropped Calls,Medium,In Progress,Call,Mobile,,3.0,No,Connection unstable
+COMP000318,CUST00018,AG023,2025-01-13 05:13:00,,Package/Plan,Package Change,High,Escalated,Mobile App,Landline,,5.0,No,Customer reported service issue
+COMP000319,CUST00235,,2025-02-18 15:49:00,,Billing,Refund Request,Low,In Progress,Walk-in,internet,,,No,Connection unstable
+COMP000320,CUST00290,AG029,2026-02-11 18:42:00,,Package/Plan,Data Limit,Low,In Progress,Mobile App,Mobile,,2.0,Yes,Request not completed
+COMP000321,CUST00229,AG021,2025-02-15 19:53:00,,Billing,Incorrect Charge,Medium,In Progress,Walk-in,TV,,,No,Billing discrepancy reported
+COMP000322,CUST00045,,2024-03-26 17:54:00,2024-04-02 23:54:00,Billing,Payment Not Reflected,Medium,Closed,Mobile App,internet,174.0,5.0,Yes,Complaint regarding delay
+COMP000323,CUST00198,AG019,2025-02-11 04:45:00,2025-02-15 03:45:00,Device,Compatibility,High,Closed,Live Chat,,95.0,,Yes,Billing discrepancy reported
+COMP000324,CUST00084,AG028,2026-01-29 13:51:00,2026-02-01 15:51:00,Other,Other,Critical,Closed,Email,Internet,74.0,2.0,No,Request not completed
+COMP000325,CUST00193,AG027,2026-06-07 16:21:00,,Other,Other,High,Open,Mobile App,Landline,,5.0,No,Complaint regarding delay
+COMP000326,CUST00284,AG020,2024-07-23 05:53:00,2024-07-26 08:53:00,Mobile Network,No Coverage,Critical,Closed,Walk-in,,75.0,2.0,Yes,Customer reported service issue
+COMP000327,CUST00148,AG032,2024-09-25 09:40:00,2024-09-26 17:40:00,Mobile Network,Dropped Calls,Low,Closed,Call,Mobile ,32.0,4.0,Yes,Payment issue
+COMP000328,CUST00133,AG031,2025-08-18 15:36:00,2025-08-27 22:36:00,Device,Configuration,Low,Closed,Live Chat,Mobile,223.0,,No,Billing discrepancy reported
+COMP000329,CUST00183,AG018,2024-05-29 10:29:00,,Billing,Duplicate Bill,Critical,In Progress,Live Chat,Mobile,,3.0,No,Payment issue
+COMP000330,CUST00049,AG011,2025-06-10 06:49:00,,Internet Connectivity,Frequent Disconnection,High,In Progress,Live Chat,Mobile ,,0.0,No,Customer reported service issue
+COMP000331,CUST00266,AG032,2026-04-23 04:00:00,,Device,Compatibility,High,In Progress,Email,Internet,,2.0,No,Payment issue
+COMP000332,CUST00270,AG008,2026-05-01 06:50:00,,SIM/Activation,Verification,Critical,Escalated,Call,Internet,,,No,Customer reported service issue
+COMP000333,CUST00227,AG034,2024-12-22 09:44:00,2024-12-23 21:44:00,billing,Service Request,Medium,Resolved,Live Chat,Mobile,36.0,,Yes,Billing discrepancy reported
+COMP000334,CUST00158,AG009,2026-05-27 22:09:00,,Mobile Network,Weak Signal,Critical,In Progress,Call,Internet,,1.0,No,Connection unstable
+COMP000335,CUST00031,AG017,2024-07-20 03:02:00,,Billing,Incorrect Charge,Low,Escalated,Live Chat,Mobile,,,Yes,Customer reported service issue
+COMP000336,CUST00047,AG018,2025-08-24 06:11:00,2025-08-24 14:11:00,SIM/Activation,Porting Issue,High,Resolved,Email,TV,8.0,5.0,Yes,Customer reported service issue
+COMP000337,CUST00145,AG035,2025-06-25 06:45:00,,Billing,Incorrect Charge,Low,In Progress,Email,,,3.0,No,Connection unstable
+COMP000338,CUST00264,AG008,2024-07-04 11:24:00,2024-07-06 18:24:00,Internet Connectivity,Frequent Disconnection,Low,Closed,Mobile App,Internet,55.0,5.0,No,Connection unstable
+COMP000339,CUST00043,AG008,2025-12-22 09:35:00,,Device,Compatibility,High,Open,Mobile App,Mobile ,,,No,Billing discrepancy reported
+COMP000340,CUST00244,,2024-10-24 13:12:00,,Account,Account Update,Medium,Open,Call,,,,Yes,Connection unstable
+COMP000341,CUST00062,AG026,2025-06-19 21:43:00,,Other,Other,Low,Open,Email,Internet,,3.0,No,Request not completed
+COMP000342,CUST00218,AG018,2025-09-01 12:07:00,,SIM/Activation,Porting Issue,Critical,In Progress,Live Chat,,,,No,Connection unstable
+COMP000343,CUST00129,AG015,2024-05-30 14:06:00,,Package/Plan,Package Change,Low,Open,Call,Mobile,,,Yes,Connection unstable
+COMP000344,CUST00156,AG007,2024-07-02 12:38:00,2024-07-04 04:38:00,Billing,Incorrect Charge,Critical,Resolved,Mobile App,TV,40.0,3.0,No,Connection unstable
+COMP000345,CUST00280,AG003,2025-07-09 10:51:00,,Package/Plan,Subscription,Low,Escalated,Mobile App,,,3.0,No,Connection unstable
+COMP000346,CUST00156,AG011,2024-02-06 01:11:00,,Other,Service Request,Critical,Escalated,Email,Mobile ,,-1,No,Connection unstable
+COMP000347,CUST00277,AG031,2025-08-05 21:31:00,,Internet Connectivity,No Connection,Low,Escalated,Mobile App,Mobile ,,4.0,No,Payment issue
+COMP000348,CUST00015,AG009,2026-02-23 09:20:00,,Device,Compatibility,High,Open,Walk-in,Mobile,,,No,Connection unstable
+COMP000349,CUST00029,AG016,2025-03-14 11:22:00,2025-03-18 05:22:00,Internet Connectivity,No Connection,High,Closed,Walk-in,Internet,90.0,,Yes,Request not completed
+COMP000350,CUST00167,AG028,2024-12-11 05:01:00,,Internet Connectivity,Router Issue,High,Escalated,Call,,,5.0,Yes,Request not completed
+COMP000351,CUST00051,AG007,2025-08-07 12:20:00,,Account,Password Reset,Medium,Escalated,Live Chat,,,5.0,No,Billing discrepancy reported
+COMP000352,CUST00039,AG035,2025-01-07 13:12:00,2025-01-14 08:12:00,Package/Plan,Package Change,High,Closed,Live Chat,Mobile,163.0,3.0,No,Billing discrepancy reported
+COMP000353,CUST00173,AG034,2026-01-04 18:06:00,,Internet Connectivity,Router Issue,Critical,Escalated,Email,internet,,,Yes,Complaint regarding delay
+COMP000354,CUST00161,AG026,2025-05-31 09:27:00,,Package/Plan,Data Limit,Critical,Escalated,Walk-in,Landline,,1.0,No,Payment issue
+COMP000355,CUST00273,AG028,2024-08-06 21:52:00,2024-08-09 18:52:00,Other,Other,Low,Closed,Walk-in,TV,69.0,3.0,No,Billing discrepancy reported
+COMP000356,CUST00223,AG005,2024-06-03 23:43:00,2024-06-13 00:43:00,SIM/Activation,SIM Replacement,Critical,Resolved,Live Chat,Mobile ,217.0,,No,Request not completed
+COMP000357,CUST00099,AG020,31/11/2025,,SIM/Activation,Verification,Critical,In Progress,Walk-in,Broadband,,4.0,Yes,Billing discrepancy reported
+COMP000358,CUST00143,AG012,2024-10-06 04:01:00,2024-10-14 15:01:00,Mobile Network,Weak Signal,Critical,RESOLVED ,Call,Mobile,203.0,,Yes,Request not completed
+COMP000359,CUST00187,AG006,2026-06-06 02:57:00,2026-06-15 16:57:00,Package/Plan,Subscription,Medium,Closed,Email,Internet,230.0,5.0,Yes,Payment issue
+COMP000360,CUST00063,AG021,2025-05-23 02:15:00,,Package/Plan,Data Limit,Critical,Escalated,Email,Broadband,,2.0,No,Customer reported service issue
+COMP000361,CUST00029,AG024,2024-08-07 08:28:00,2024-08-10 02:28:00,Mobile Network,Weak Signal,High,Closed,Walk-in,Broadband,66.0,4.0,No,Request not completed
+COMP000362,CUST00158,AG003,2025-01-06 15:45:00,2025-01-15 10:45:00,Mobile Network,Weak Signal,Medium,Resolved,Live Chat,Broadband,211.0,3.0,No,Complaint regarding delay
+COMP000363,CUST00005,AG026,2025-07-01 07:54:00,2025-07-05 11:54:00,Internet Connectivity,Frequent Disconnection,High,Closed,Call,TV,100.0,3.0,No,Billing discrepancy reported
+COMP000364,CUST00018,AG006,2025-10-08 10:56:00,2025-10-16 21:56:00,Other,Service Request,Critical,Closed,Mobile App,internet,203.0,,No,Customer reported service issue
+COMP000365,CUST00181,AG021,2025-12-16 08:32:00,,Mobile Network,Data Speed,Low,Open,Call,Landline,,,No,Complaint regarding delay
+COMP000366,CUST00295,AG011,2024-01-04 12:12:00,2024-01-07 21:12:00,Billing ,Dropped Calls,Medium,,Walk-in,Broadband,81.0,,No,Connection unstable
+COMP000367,CUST00168,AG013,2026-06-13 23:08:00,2026-06-15 20:08:00,Other,General Inquiry,Critical,Resolved,Live Chat,Landline,45.0,4.0,No,Payment issue
+COMP000368,CUST00118,AG030,2024-01-22 00:59:00,,SIM/Activation,SIM Replacement,High,Escalated,Email,Mobile,,4.0,No,Payment issue
+COMP000369,CUST00291,AG034,2024-06-01 02:23:00,,Package/Plan,Subscription,Critical,In Progress,Mobile App,Internet,,2.0,No,Billing discrepancy reported
+COMP000370,CUST00221,AG014,2024-10-21 23:31:00,2024-10-23 09:31:00,Package/Plan,Data Limit,Medium,Closed,Mobile App,Landline,34.0,4.0,No,Customer reported service issue
+COMP000371,CUST00128,AG030,2024-09-25 07:39:00,2024-10-05 00:39:00,Package/Plan,Package Renewal,Low,Closed,Mobile App,Landline,233.0,,No,Complaint regarding delay
+COMP000372,CUST00217,AG017,2025-12-04 06:45:00,2025-12-11 20:45:00,Account,Login Issue,Low,Closed,Walk-in,Mobile,182.0,1.0,No,Billing discrepancy reported
+COMP000373,CUST00024,AG033,2024-12-28 19:42:00,,Other,Other,Critical,Escalated,Live Chat,Broadband,,,No,Billing discrepancy reported
+COMP000374,CUST00258,AG022,2025-08-17 05:16:00,,Billing,Payment Not Reflected,Medium,In Progress,Call,internet,,,No,Billing discrepancy reported
+COMP000375,CUST00256,AG018,2024-04-29 10:02:00,,Package/Plan,Data Limit,Critical,In Progress,Live Chat,Mobile ,,5.0,No,Payment issue
+COMP000376,CUST00078,AG029,2025-03-22 05:20:00,2025-03-30 09:20:00,Device,Device Fault,Medium,Closed,Email,Mobile,196.0,2.0,No,Customer reported service issue
+COMP000377,CUST00060,,2024-09-23 05:45:00,2024-09-27 21:45:00,Other,Service Request,Low,Closed,Mobile App,internet,112.0,,No,Connection unstable
+COMP000378,CUST00064,AG014,2024-04-25 23:55:00,,Other,Service Request,Medium,In Progress,Email,Mobile ,,5.0,No,Payment issue
+COMP000379,CUST00040,AG032,2025-06-22 18:11:00,2025-07-02 14:11:00,Billing,Incorrect Charge,High,Closed,Call,Mobile ,236.0,,Yes,Connection unstable
+COMP000380,CUST00015,AG031,2025-08-27 03:53:00,2025-08-28 19:53:00,Device,Compatibility,urgent,Resolved,Walk-in,Mobile,40.0,3.0,Yes,Complaint regarding delay
+COMP000381,CUST00067,AG004,2024-11-28 23:46:00,,Other,Other,High,Escalated,Live Chat,Mobile,,,Yes,Payment issue
+COMP000382,CUST00123,,2024-04-04 12:16:00,,Account,Account Update,Low,In Progress,Call,TV,,2.0,No,Connection unstable
+COMP000383,CUST00153,AG028,2025-10-24 20:09:00,,Package/Plan,Data Limit,Medium,Open,Live Chat,Internet,,,No,Payment issue
+COMP000384,CUST00138,AG028,2025-05-16 14:56:00,2025-05-21 16:56:00,SIM/Activation,SIM Activation Delay,Critical,Closed,WhatsApp,Landline,122.0,4.0,No,Customer reported service issue
+COMP000385,CUST00080,,2025-06-09 10:29:00,,Billing,Incorrect Charge,High,In Progress,Mobile App,N/A,,1.0,No,Request not completed
+COMP000386,CUST00128,AG019,2024-05-10 21:57:00,2024-05-19 21:57:00,Mobile Network,Weak Signal,Low,Resolved,Call,Internet,216.0,5.0,No,Connection unstable
+COMP000387,CUST00130,AG006,2025-04-20 21:46:00,,Internet Connectivity,Slow Internet,Low,Escalated,Mobile App,Landline,,,No,Connection unstable
+COMP000388,CUST00233,AG029,2024-03-26 13:56:00,2024-03-29 22:56:00,Billing,Duplicate Bill,High,Resolved,,TV,81.0,2.0,Yes,Complaint regarding delay
+COMP000389,CUST00010,AG008,2026-06-11 21:06:00,2026-06-17 14:06:00,Package/Plan,Package Renewal,Medium,Closed,Mobile App,,137.0,,No,Complaint regarding delay
+COMP000390,CUST00185,AG026,2024-11-06 19:52:00,,Mobile Network ,Service Request,Low,Escalated,Email,Landline,,1.0,No,Customer reported service issue
+COMP000391,CUST00108,AG010,2025-12-13 06:54:00,,Billing,Refund Request,Critical,Open,Walk-in,TV,,1.0,No,Connection unstable
+COMP000392,CUST00086,AG029,2025-04-30 13:01:00,,Mobile Network,Data Speed,Critical,Open,Call,,,5.0,No,Billing discrepancy reported
+COMP000393,CUST00053,AG028,2025-08-06 12:03:00,2025-08-06 15:03:00,Package/Plan,Subscription,Critical,Resolved,Walk-in,Mobile ,3.0,1.0,No,Connection unstable
+COMP000394,CUST00250,AG004,2025-06-09 18:46:00,,Other,Other,Low,Escalated,Mobile App,internet,,5.0,Yes,Request not completed
+COMP000395,CUST00178,AG028,2025-04-29 03:31:00,,Account,Login Issue,Medium,Escalated,Live Chat,TV,,4.0,No,Connection unstable
+COMP000396,CUST00240,AG019,2025-06-03 07:37:00,2025-06-13 03:37:00,SIM/Activation,Verification,Critical,Resolved,Live Chat,,236.0,,No,Payment issue
+COMP000397,CUST00248,AG013,2024-10-16 22:47:00,,SIM/Activation,SIM Replacement,Critical,Open,Call,Broadband,,4.0,No,Billing discrepancy reported
+COMP000398,CUST00134,AG011,2025-07-24 01:01:00,2025-08-02 11:01:00,SIM/Activation,SIM Replacement,Low,Resolved,Call,internet,226.0,4.0,Yes,Payment issue
+COMP000399,CUST00175,AG003,2024-05-03 17:14:00,2024-05-06 12:14:00,SIM/Activation,Porting Issue,Medium,Closed,Walk-in,Internet,67.0,,Yes,Connection unstable
+COMP000400,CUST00053,AG003,2026-05-11 03:06:00,,Other,Other,Low,Escalated,Email,Internet,,,No,Request not completed
+COMP000401,CUST00260,AG007,2026-01-15 09:45:00,2026-01-23 13:45:00,Mobile Network,Dropped Calls,High,Closed,Live Chat,Landline,196.0,1.0,No,Connection unstable
+COMP000402,CUST00147,AG006,2026-02-26 00:15:00,2026-03-01 16:15:00,Account,Account Update,High,Closed,Mobile App,internet,88.0,,No,Billing discrepancy reported
+COMP000403,CUST00210,AG034,2026-03-17 07:08:00,2026-03-21 17:08:00,Account,Password Reset,High,Closed,Call,,106.0,2.0,Yes,Complaint regarding delay
+COMP000404,CUST00085,AG026,2024-03-27 10:20:00,2024-04-04 16:20:00,Internet Connectivity,Slow Internet,Medium,Closed,Walk-in,Mobile,198.0,,No,Connection unstable
+COMP000405,,AG001,2025-11-28 22:35:00,2025-12-06 15:35:00,Account,Account Update,Medium,Resolved,Mobile App,,185.0,,No,Payment issue
+COMP000406,CUST00102,AG006,2025-12-15 11:56:00,2025-12-23 18:56:00,Other,General Inquiry,High,Closed,Mobile App,Landline,199.0,5.0,No,Billing discrepancy reported
+COMP000407,CUST00175,AG011,2025-06-07 17:19:00,,Internet Connectivity,Slow Internet,Low,Escalated,Walk-in,Mobile ,,2.0,No,Complaint regarding delay
+COMP000408,CUST00191,AG033,2025-06-01 03:46:00,,Account,Account Update,Low,Open,Call,Internet,,4.0,No,Payment issue
+COMP000409,CUST00290,AG035,2025-04-09 10:15:00,,Billing,Refund Request,High,Escalated,Live Chat,Mobile ,,,No,Complaint regarding delay
+COMP000410,CUST00168,AG013,2025-06-16 23:15:00,,Account,Account Update,Critical,Open,Call,Landline,,,No,Connection unstable
+COMP000411,CUST00244,AG005,2024-04-04 01:27:00,,Internet Connectivity,Frequent Disconnection,Critical,In Progress,Walk-in,Broadband,,,No,Payment issue
+COMP000412,CUST00214,AG010,2025-10-13 13:28:00,2025-10-21 09:28:00,Billing ,Other,Medium,Closed,Mobile App,,188.0,2.0,Yes,Complaint regarding delay
+COMP000413,CUST00287,AG008,2025-04-11 15:02:00,,SIM/Activation,Verification,Low,In Progress,Call,internet,,5.0,No,Customer reported service issue
+COMP000414,CUST00151,AG010,2024-04-30 11:19:00,31/12/2025,Mobile Network,Dropped Calls,Critical,Resolved,Call,Mobile ,78.0,3.0,No,Billing discrepancy reported
+COMP000415,CUST00023,AG020,2024-01-03 03:35:00,2024-01-03 21:35:00,Other,Other,Critical,Resolved,Live Chat,Broadband,18.0,4.0,No,Billing discrepancy reported
+COMP000416,CUST00167,AG027,2026-02-18 14:42:00,2026-02-20 05:42:00,Other,Service Request,Medium,Closed,Mobile App,internet,39.0,5.0,Yes,Complaint regarding delay
+COMP000417,CUST00085,AG020,2026-01-23 08:41:00,,Other,Other,Low,Open,Walk-in,Internet,,2.0,Yes,Payment issue
+COMP000418,CUST00062,AG035,2026-02-07 15:32:00,,SIM/Activation,SIM Replacement,Low,Open,Live Chat,TV,,2.0,No,Customer reported service issue
+COMP000419,CUST00012,AG012,2025-02-15 18:02:00,2025-02-24 23:02:00,Device,Compatibility,,Closed,Walk-in,internet,221.0,4.0,No,Customer reported service issue
+COMP000420,CUST00094,AG006,2024-04-11 17:10:00,2024-04-13 06:10:00,Internet Connectivity,No Connection,High,Resolved,Mobile App,Landline,37.0,1.0,No,Billing discrepancy reported
+COMP000421,CUST00164,AG021,2025-12-31 01:19:00,2026-01-01 03:19:00,Billing,Duplicate Bill,Critical,Closed,Call,Mobile,26.0,2.0,No,Payment issue
+COMP000422,CUST00198,,2025-05-19 16:48:00,,SIM/Activation,Porting Issue,Low,Escalated,Live Chat,,,5.0,No,Customer reported service issue
+COMP000423,CUST00010,AG007,2024-01-30 13:40:00,,Other,General Inquiry,Medium,In Progress,Live Chat,Broadband,,4.0,Yes,Complaint regarding delay
+COMP000424,,AG035,2026-03-12 04:23:00,,SIM/Activation,Verification,Critical,Escalated,Call,Mobile,,,No,Payment issue
+COMP000425,CUST00247,AG017,2025-10-30 05:00:00,,Package/Plan,Subscription,High,Open,Email,Mobile ,,1.0,No,Complaint regarding delay
+COMP000426,CUST00072,AG018,2024-11-03 02:25:00,,Internet Connectivity,Router Issue,Medium,Open,,internet,,,No,Complaint regarding delay
+COMP000427,CUST00165,AG030,2026-02-09 22:28:00,2026-02-12 13:28:00,Package/Plan,Data Limit,Low,Resolved,Email,Mobile,63.0,5.0,No,Customer reported service issue
+COMP000428,CUST00251,AG035,2025-11-19 05:26:00,,Billing,Incorrect Charge,Low,Escalated,Walk-in,Mobile,,,No,Complaint regarding delay
+COMP000429,CUST00184,AG001,2024-12-27 12:52:00,,Internet Connectivity,Slow Internet,Critical,Escalated,Live Chat,TV,,4.0,Yes,Billing discrepancy reported
+COMP000430,CUST00047,AG020,2026-02-15 08:43:00,2026-02-17 10:43:00,Billing,Refund Request,Medium,Resolved,Mobile App,internet,50.0,1.0,No,Connection unstable
+COMP000431,CUST00143,AG032,2024-01-08 06:52:00,2024-01-09 11:52:00,SIM/Activation,SIM Replacement,Medium,Closed,Email ,Landline,29.0,1.0,No,Complaint regarding delay
+COMP000432,CUST00117,AG018,2024-05-10 08:59:00,,Internet Connectivity,No Connection,Low,Escalated,Walk-in,Mobile ,,,No,Customer reported service issue
+COMP000433,CUST00166,AG027,2025-10-18 21:41:00,,Account,Account Update,Low,Open,Walk-in,,,4.0,No,Payment issue
+COMP000434,CUST00216,AG021,2026-01-08 07:03:00,2026-01-18 03:03:00,Billing,Incorrect Charge,Critical,Resolved,Email,internet,236.0,1.0,Yes,Complaint regarding delay
+COMP000435,CUST00101,AG020,2025-12-07 13:04:00,,SIM/Activation,SIM Activation Delay,Low,In Progress,Call,,,4.0,Yes,Payment issue
+COMP000436,CUST00243,AG022,2026-05-10 08:15:00,,Device,Device Fault,High,Open,Walk-in,TV,,1.0,No,Customer reported service issue
+COMP000437,CUST00018,AG005,2025-08-15 03:05:00,,Other,General Inquiry,Low,Open,Mobile App,Mobile,,3.0,No,Customer reported service issue
+COMP000438,CUST00151,AG026,2025-11-24 01:35:00,,Internet Connectivity,Slow Internet,Critical,RESOLVED ,Email,Mobile,9999.0,4.0,No,Connection unstable
+COMP000439,CUST00014,AG022,2025-09-27 19:06:00,2025-10-04 18:06:00,Account,Password Reset,Medium,Resolved,Call,Internet,167.0,1.0,Yes,Payment issue
+COMP000440,CUST00132,AG031,2025-08-09 04:40:00,,SIM/Activation,Verification,Medium,Escalated,Email,Landline,,,Yes,Customer reported service issue
+COMP000441,CUST00184,AG035,2024-11-15 18:27:00,,Mobile Network,Dropped Calls,Medium,Escalated,Mobile App,Mobile ,,5.0,No,Request not completed
+COMP000442,CUST00030,AG004,2024-01-09 16:37:00,,Device,Compatibility,High,In Progress,Email,TV,,,No,Customer reported service issue
+COMP000443,CUST00170,AG022,2024-07-12 21:30:00,2024-07-19 07:30:00,Device,Configuration,High,Closed,Mobile App,internet,154.0,2.0,Yes,Connection unstable
+COMP000444,CUST00115,AG999,2025-05-22 07:58:00,,Billing,Refund Request,Medium,Open,Mobile App,internet,,,No,Billing discrepancy reported
+COMP000445,CUST00038,AG008,2024-07-07 00:23:00,,Account,Login Issue,High,Open,Mobile App,TV,,,No,Customer reported service issue
+COMP000446,CUST00113,AG012,2024-07-22 06:18:00,,Billing,Duplicate Bill,Medium,In Progress,Email,TV,,1.0,No,Request not completed
+COMP000447,CUST00057,AG014,2024-01-22 21:08:00,2024-01-29 21:08:00,Internet Connectivity,Frequent Disconnection,Critical,Closed,Email,internet,168.0,,No,Complaint regarding delay
+COMP000448,CUST00034,AG999,2025-06-23 19:56:00,2025-07-03 04:56:00,Mobile Network,Dropped Calls,Medium,Closed,Walk-in,Broadband,225.0,,No,Request not completed
+COMP000449,CUST00097,AG019,2025-10-13 07:58:00,,Account,Login Issue,High,Open,Email,Mobile,,,No,Billing discrepancy reported
+COMP000450,CUST00034,AG025,2024-08-02 23:05:00,2024-08-11 10:05:00,Other,Other,High,Closed,Mobile App,,203.0,2.0,No,Complaint regarding delay
+COMP000451,CUST00138,AG003,2025-06-22 22:30:00,2025-06-28 00:30:00,Device,Device Fault,Medium,Closed,Email,,122.0,,No,Connection unstable
+COMP000452,CUST00081,,2024-11-09 13:56:00,2024-11-15 16:56:00,SIM/Activation,Porting Issue,,Closed,Walk-in,Internet,147.0,2.0,Yes,Request not completed
+COMP000453,CUST00022,AG022,2025-06-15 11:14:00,,Other,Service Request,Critical,Escalated,Mobile App,Broadband,,4.0,No,Connection unstable
+COMP000454,CUST00227,AG005,2024-10-06 12:01:00,,Device,Compatibility,Low,In Progress,Live Chat,Internet,,,No,Billing discrepancy reported
+COMP000455,CUST00280,AG013,2024-05-01 02:23:00,,Internet Connectivity,Frequent Disconnection,High,Open,Live Chat,Mobile ,,2.0,No,Complaint regarding delay
+COMP000456,CUST00207,,2024-01-09 09:18:00,2024-01-17 18:18:00,Package/Plan,Package Renewal,Critical,Resolved,Walk-in,Landline,201.0,,No,Billing discrepancy reported
+COMP000457,CUST00265,AG030,2026-01-10 23:13:00,2026-01-13 11:13:00,SIM/Activation,Verification,High,Closed,Call,internet,60.0,,No,Connection unstable
+COMP000458,CUST00016,AG009,2024-08-02 14:28:00,,Account,Account Update,Low,Escalated,Mobile App,internet,,3.0,No,Connection unstable
+COMP000459,CUST00154,AG002,2025-12-03 12:48:00,,Account,Password Reset,Low,Escalated,Email,Landline,,3.0,No,Connection unstable
+COMP000460,CUST00244,AG029,2025-02-04 02:34:00,2025-02-06 03:34:00,SIM/Activation,Porting Issue,Low,Closed,Email,Internet,49.0,,No,Customer reported service issue
+COMP000461,CUST00198,AG015,not a date,,Other,Service Request,Low,Open,Mobile App,Mobile,,3.0,Yes,Billing discrepancy reported
+COMP000462,CUST00057,AG027,2026-05-30 13:25:00,,Device,Compatibility,Low,In Progress,Mobile App,TV,,2.0,No,Request not completed
+COMP000463,CUST00295,,2026-04-17 22:42:00,2026-04-19 15:42:00,Account,Password Reset,Medium,Closed,Walk-in,,41.0,3.0,No,Customer reported service issue
+COMP000464,CUST00127,AG032,2025-04-01 02:52:00,2025-04-07 13:52:00,Mobile Network,Data Speed,Critical,,Walk-in,Mobile,155.0,,Yes,Request not completed
+COMP000465,CUST00090,AG012,2024-12-21 22:53:00,2024-12-26 03:53:00,Other,Other,Critical,Resolved,Mobile App,Broadband,101.0,,No,Complaint regarding delay
+COMP000466,CUST00081,AG035,2024-02-30,,Internet Connectivity,Frequent Disconnection,Low,In Progress,Email,,,4.0,Yes,Request not completed
+COMP000467,CUST00231,AG014,2026-02-12 03:32:00,2026-02-16 12:32:00,Internet Connectivity,Slow Internet,Critical,Resolved,Call,Internet,105.0,,No,Connection unstable
+COMP000468,CUST00204,AG017,2026-02-02 12:54:00,,Device,Device Fault,Medium,In Progress,Live Chat,,,4.0,No,Customer reported service issue
+COMP000469,CUST00242,AG011,2025-07-15 21:15:00,2025-07-17 09:15:00,Internet Connectivity,No Connection,Low,Closed,Walk-in,Internet,36.0,2.0,No,Customer reported service issue
+COMP000470,CUST00140,AG023,2024-06-21 02:42:00,,Account,Login Issue,Medium,Open,Call,TV,,4.0,Yes,Complaint regarding delay
+COMP000471,CUST00003,AG025,2025-02-03 22:19:00,2025-02-04 12:19:00,Internet Connectivity,No Connection,Medium,Closed,Live Chat,TV,14.0,2.0,Yes,Customer reported service issue
+COMP000472,CUST00033,AG007,2024-01-29 00:21:00,,Account,Password Reset,Medium,In Progress,Email,Mobile,,0.0,Yes,Request not completed
+COMP000473,CUST00107,,2025-07-29 20:12:00,,Device,Compatibility,Critical,Escalated,Call,TV,,2.0,Yes,Request not completed
+COMP000474,CUST00200,AG015,2024-06-26 00:25:00,2024-06-26 04:25:00,Device,Device Fault,High,Resolved,Walk-in,internet,4.0,1.0,Yes,Billing discrepancy reported
+COMP000475,CUST00275,AG999,2024-11-04 19:31:00,,Account,Account Update,Low,Open,Walk-in,internet,,,No,Complaint regarding delay
+COMP000476,CUST00247,AG002,2024-12-06 05:40:00,2024-12-15 07:40:00,Mobile Network,Data Speed,Critical,Resolved,Walk-in,TV,218.0,5.0,Yes,Billing discrepancy reported
+COMP000477,CUST00220,AG006,2025-09-23 03:19:00,,Billing,Incorrect Charge,Medium,In Progress,Live Chat,mobile,,3.0,No,Billing discrepancy reported
+COMP000478,CUST00228,AG022,2024-07-28 20:02:00,,Account,Login Issue,High,In Progress,Live Chat,Mobile,,5.0,No,Complaint regarding delay
+COMP000479,CUST00125,AG004,2026-02-07 00:14:00,2026-02-10 16:14:00,Package/Plan,Package Change,Medium,Resolved,Walk-in,Broadband,88.0,5.0,No,Billing discrepancy reported
+COMP000480,CUST00099,AG010,2025-10-06 00:04:00,2025-10-06 18:04:00,Other,General Inquiry,Medium,Closed,Call,Landline,18.0,5.0,No,Billing discrepancy reported
+COMP000481,CUST00102,AG012,2025-03-12 23:29:00,2025-03-14 18:29:00,Internet Connectivity,No Connection,High,Resolved,Live Chat,,43.0,,No,Request not completed
+COMP000482,CUST00242,AG033,2024-03-22 11:25:00,2024-03-24 06:25:00,Other,Other,Critical,Closed,Email,,43.0,1.0,No,Connection unstable
+COMP000483,CUST00079,AG012,2026-02-16 09:38:00,,Internet Connectivity,Frequent Disconnection,Critical,Escalated,Mobile App,Mobile ,,4.0,No,Connection unstable
+COMP000484,CUST00080,AG001,2024-03-14 10:08:00,2024-03-16 13:08:00,billing,General Inquiry,High,Closed,Mobile App,Broadband,51.0,4.0,No,Complaint regarding delay
+COMP000485,CUST00037,AG003,2024-02-30,,Device,Device Fault,Critical,Escalated,Walk-in,Landline,,2.0,No,Request not completed
+COMP000486,CUST00030,AG028,2025-06-05 22:31:00,2025-06-13 09:31:00,Device,Configuration,Medium,Resolved,call,,179.0,1.0,No,Complaint regarding delay
+COMP000487,CUST00134,AG010,2025-12-15 21:41:00,,Billing,Duplicate Bill,Medium,In Progress,Walk-in,Landline,,1.0,Yes,Customer reported service issue
+COMP000488,CUST00266,AG028,2025-02-11 22:37:00,,Account,Login Issue,Critical,Open,Live Chat,Mobile ,,5.0,No,Payment issue
+COMP000489,CUST00056,AG023,,,Package/Plan,Package Change,High,Open,Email,Broadband,,,yes,Customer reported service issue
+COMP000490,CUST00036,AG027,2026-04-15 15:00:00,,Mobile Network,Data Speed,High,Open,Mobile App,Landline,,2.0,No,Billing discrepancy reported
+COMP000491,CUST00057,AG014,2024-07-21 15:11:00,,Mobile Network,Dropped Calls,Medium,Escalated,Call,Landline,,,No,Request not completed
+COMP000492,CUST00056,AG011,2025-03-27 20:58:00,,Account,Login Issue,High,Escalated,Call,Broadband,,1.0,No,Customer reported service issue
+COMP000493,CUST00052,AG018,2024-01-31 18:15:00,2024-02-05 23:15:00,Device,Device Fault,Low,Closed,Call,TV,125.0,5.0,Yes,Connection unstable
+COMP000494,CUST00220,AG022,2025-05-12 15:48:00,2025-05-19 02:48:00,Package/Plan,Data Limit,Medium,Resolved,Live Chat,Broadband,155.0,4.0,Yes,Request not completed
+COMP000495,CUST00206,AG009,2026-04-05 03:00:00,2026-04-14 10:00:00,Device,Device Fault,Low,Closed,Walk-in,Mobile ,223.0,,No,Request not completed
+COMP000496,CUST00212,AG001,2025-09-25 21:42:00,2025-10-01 09:42:00,Other,Other,High,Closed,Call,internet,132.0,,Yes,Complaint regarding delay
+COMP000497,CUST00249,AG006,2025-11-25 14:14:00,,Device,Compatibility,Critical,Escalated,Mobile App,Internet,,,No,Request not completed
+COMP000498,CUST00293,AG033,2025-12-30 04:55:00,,SIM/Activation,SIM Activation Delay,Medium,Escalated,Mobile App,Internet,,3.0,No,Billing discrepancy reported
+COMP000499,CUST00124,AG011,2024-04-28 15:42:00,,Other,Other,Low,Escalated,Call,Broadband,,,Yes,Billing discrepancy reported
+COMP000500,CUST00244,,2025-01-27 08:14:00,2025-02-03 11:14:00,Device,Configuration,Low,Resolved,Email,,171.0,1.0,No,Billing discrepancy reported
+COMP000501,CUST00288,AG999,2025-10-21 10:24:00,2025-10-28 10:24:00,Internet Connectivity,Router Issue,Medium,Closed,Email,Mobile ,168.0,1.0,No,Customer reported service issue
+COMP000502,CUST00097,AG008,2024-04-01 10:47:00,,Internet Connectivity,Frequent Disconnection,Medium,Escalated,Live Chat,Broadband,,5.0,Yes,Request not completed
+COMP000503,CUST00164,AG009,2025-08-27 17:12:00,2025-09-01 06:12:00,Billing,Refund Request,Low,Closed,Mobile App,Mobile,-3.0,5.0,yes,Request not completed
+COMP000504,CUST00256,AG010,2026-04-15 09:53:00,,Mobile Network,No Coverage,Medium,In Progress,Call,internet,,3.0,Yes,Request not completed
+COMP000505,CUST00193,AG022,2025-10-08 06:31:00,2025-10-15 19:31:00,Other,General Inquiry,Medium,Resolved,Email,Mobile,181.0,,No,Connection unstable
+COMP000506,CUST00012,AG022,2024-11-02 21:58:00,,Account,Account Update,Critical,In Progress,Live Chat,Broadband,,4.0,Yes,Payment issue
+COMP000507,CUST00281,AG009,2024-10-16 22:59:00,,Package/Plan,Data Limit,Low,In Progress,Live Chat,,,,No,Payment issue
+COMP000508,CUST00075,AG013,2025-03-28 22:30:00,2025-04-07 12:30:00,Mobile Network,Weak Signal,High,Resolved,Walk-in,Internet,230.0,,No,Connection unstable
+COMP000509,CUST00050,AG031,2025-11-26 05:59:00,,Account,Login Issue,Low,Open,Call,internet,,5.0,No,Billing discrepancy reported
+COMP000510,CUST00204,AG012,2024-09-07 01:07:00,,Account,Password Reset,Critical,In Progress,Call,,,,No,Request not completed
+COMP000511,CUST00043,AG033,2025-01-11 00:07:00,,Other,General Inquiry,Low,Open,Walk-in,,,3.0,Yes,Payment issue
+COMP000512,CUST00293,AG021,2025-01-28 15:41:00,2025-01-31 20:41:00,Mobile Network,Weak Signal,Medium,Closed,Mobile App,Mobile,77.0,4.0,No,Customer reported service issue
+COMP000513,CUST00093,AG012,2026-02-10 06:42:00,,Internet Connectivity,Slow Internet,Critical,Open,Live Chat,Internet,,1.0,No,Payment issue
+COMP000514,CUST00132,AG003,2025-10-30 05:05:00,,SIM/Activation,SIM Activation Delay,Low,Escalated,Walk-in,Mobile ,,3.0,No,Connection unstable
+COMP000515,CUST00151,AG029,2024-09-11 09:02:00,,Billing,Refund Request,Critical,Escalated,Live Chat,internet,,5.0,No,Complaint regarding delay
+COMP000516,CUST00097,AG014,2025-11-09 01:15:00,,Internet Connectivity,No Connection,Medium,RESOLVED ,Walk-in,internet,,3.0,No,Complaint regarding delay
+COMP000517,CUST00084,AG006,2024-03-17 17:16:00,2024-03-21 19:16:00,Account,Account Update,Critical,Resolved,Email,TV,98.0,1.0,No,Complaint regarding delay
+COMP000518,CUST00084,AG010,2026-01-01 11:36:00,,SIM/Activation,Porting Issue,Critical,Escalated,Mobile App,Mobile,,5.0,No,Customer reported service issue
+COMP000519,CUST00209,AG006,2024-05-07 17:07:00,,Package/Plan,Data Limit,High,Escalated,Live Chat,Landline,,,No,Request not completed
+COMP000520,CUST00064,AG020,2024-04-10 12:14:00,2024-04-11 15:14:00,Billing,Payment Not Reflected,Low,Closed,Walk-in,internet,27.0,,No,Payment issue
+COMP000521,CUST00088,AG025,2025-09-14 03:57:00,,Package/Plan,Package Change,High,Open,Walk-in,Broadband,,4.0,No,Request not completed
+COMP000522,CUST00065,AG018,2025-12-04 16:45:00,,Billing,Incorrect Charge,High,In Progress,Email,Broadband,,,No,Billing discrepancy reported
+COMP000523,CUST00220,AG015,2024-12-28 14:32:00,2024-12-31 13:32:00,Other,Service Request,Low,Resolved,Live Chat,Broadband,71.0,,No,Customer reported service issue
+COMP000524,CUST00085,AG006,2024-03-19 23:15:00,,Internet Connectivity,Frequent Disconnection,Critical,Open,Call,Broadband,,,No,Connection unstable
+COMP000525,CUST00064,AG013,2025-06-11 21:43:00,,Other,Other,Low,Escalated,Mobile App,internet,,2.0,Yes,Payment issue
+COMP000526,CUST00116,AG024,2024-06-21 21:59:00,,Other,General Inquiry,High,Escalated,Call,Broadband,,4.0,No,Billing discrepancy reported
+COMP000527,CUST00277,AG008,2024-04-25 10:58:00,,Device,Compatibility,High,In Progress,Mobile App,Mobile ,,3.0,No,Customer reported service issue
+COMP000528,CUST00019,,2024-08-10 09:59:00,,Account,Password Reset,Critical,Escalated,Call,internet,,1.0,No,Request not completed
+COMP000529,CUST00096,AG001,2024-12-28 03:00:00,2025-01-06 15:00:00,Package/Plan,Package Renewal,Critical,Resolved,Mobile App,TV,228.0,1.0,No,Connection unstable
+COMP000530,CUST00241,AG020,2025-05-14 00:09:00,2025-05-16 10:09:00,Internet Connectivity,Frequent Disconnection,Critical,Resolved,Email,Mobile ,58.0,1.0,No,Complaint regarding delay
+COMP000531,CUST00184,AG013,2024-06-14 04:22:00,2024-06-14 06:22:00,Other,General Inquiry,Medium,Closed,Live Chat,Mobile,2.0,2.0,No,Connection unstable
+COMP000532,CUST00246,,2024-02-02 05:42:00,,Device,Compatibility,Low,In Progress,Mobile App,,,5.0,No,Complaint regarding delay
+COMP000533,CUST00057,,2024-11-28 12:32:00,2024-11-29 22:32:00,Mobile Network,Weak Signal,Medium,Closed,Email,internet,34.0,5.0,Yes,Complaint regarding delay
+COMP000534,CUST00005,AG019,2024-02-23 21:53:00,2024-02-28 11:53:00,SIM/Activation,Porting Issue,Critical,Resolved,Call,Broadband,110.0,2.0,No,Complaint regarding delay
+COMP000535,CUST00135,,2024-09-12 08:49:00,,Mobile Network,Dropped Calls,Critical,Open,Email,,,,Yes,Complaint regarding delay
+COMP000536,CUST00118,AG026,2024-07-12 18:40:00,,Mobile Network,Weak Signal,High,In Progress,Email,Landline,,4.0,Yes,Payment issue
+COMP000537,CUST00157,AG015,2024-04-03 01:24:00,2024-04-08 16:24:00,SIM/Activation,SIM Replacement,High,Closed,Mobile App,,135.0,1.0,No,Complaint regarding delay
+COMP000538,CUST00180,AG016,2024-11-07 03:17:00,2024-11-10 03:17:00,Billing,Duplicate Bill,Low,Resolved,Email,Mobile,72.0,1.0,Yes,Complaint regarding delay
+COMP000539,CUST00052,AG017,2024-08-05 09:30:00,2024-08-15 02:30:00,Device,Compatibility,High,Resolved,Live Chat,Mobile ,233.0,1.0,Yes,Complaint regarding delay
+COMP000540,CUST00170,AG024,2025-11-30 17:49:00,,Billing,Duplicate Bill,Medium,In Progress,Live Chat,TV,,5.0,No,Customer reported service issue
+COMP000541,CUST00062,AG013,2024-05-13 20:47:00,,Internet Connectivity,No Connection,Critical,Escalated,Call,Internet,,5.0,No,Request not completed
+COMP000542,CUST00023,AG027,2026-02-18 06:34:00,,Other,Other,High,In Progress,Walk-in,internet,,3.0,No,Complaint regarding delay
+COMP000543,CUST00258,AG011,31/11/2025,2025-03-27 17:30:00,Internet Connectivity,Frequent Disconnection,Medium,Closed,Live Chat,Mobile,135.0,5.0,Yes,Complaint regarding delay
+COMP000544,CUST00263,,2026-01-28 12:31:00,,SIM/Activation,SIM Replacement,Critical,Escalated,Walk-in,Broadband,,5.0,No,Connection unstable
+COMP000545,CUST00293,AG001,2024-07-30 05:00:00,,Package/Plan,Subscription,High,In Progress,Live Chat,TV,,3.0,No,Payment issue
+COMP000546,CUST00122,AG010,2024-06-24 07:02:00,,Internet Connectivity,Frequent Disconnection,Medium,Escalated,,Mobile,,,No,Billing discrepancy reported
+COMP000547,CUST00189,AG017,2024-01-02 20:22:00,,Internet Connectivity,No Connection,Critical,Escalated,Walk-in,Internet ,,3.0,Yes,Complaint regarding delay
+COMP000548,CUST00132,,2026-04-23 11:14:00,2026-04-25 09:14:00,Billing,Incorrect Charge,Critical,Resolved,Live Chat,TV,46.0,,No,Billing discrepancy reported
+COMP000549,CUST00229,AG028,2024-10-02 06:37:00,2024-10-03 22:37:00,Device,Compatibility,Medium,Closed,Mobile App,Internet ,40.0,4.0,No,Connection unstable
+COMP000550,CUST00252,,2026-04-15 05:12:00,,Mobile Network,Dropped Calls,High,Escalated,Call,Mobile ,,2.0,No,Connection unstable
+COMP000551,CUST00233,AG026,2024-03-12 04:04:00,2024-03-14 19:04:00,SIM/Activation,SIM Activation Delay,Medium,Closed,Call,Internet,63.0,4.0,No,Customer reported service issue
+COMP000552,CUST00068,AG006,2026-04-26 00:48:00,,Internet Connectivity,Frequent Disconnection,Medium,Open,Walk-in,Mobile,,,Yes,Customer reported service issue
+COMP000553,CUST00072,AG029,2026-05-23 22:05:00,,Device,Device Fault,High,In Progress,Live Chat,,,2.0,yes,Customer reported service issue
+COMP000554,CUST00023,AG019,2025-10-04 17:07:00,,Package/Plan,Package Renewal,Critical,Open,Email,Mobile,,2.0,Yes,Billing discrepancy reported
+COMP000555,CUST00197,AG008,2025-01-29 04:22:00,2025-01-31 14:22:00,Account,Account Update,Medium,Resolved,Call,TV,58.0,1.0,No,Request not completed
+COMP000556,CUST00044,AG010,2025-09-22 10:07:00,2025-10-02 07:07:00,Internet Connectivity,No Connection,Critical,Resolved,Walk-in,internet,237.0,5.0,No,Complaint regarding delay
+COMP000557,CUST00147,AG007,2024-06-02 21:43:00,2024-06-09 13:43:00,Account,Account Update,Critical,Resolved,Live Chat,Mobile ,160.0,,Yes,Customer reported service issue
+COMP000558,CUST00200,AG031,2026-03-07 20:09:00,2026-03-09 10:09:00,Mobile Network,Weak Signal,Low,Resolved,Walk-in,Broadband,38.0,,No,Billing discrepancy reported
+COMP000559,CUST00164,AG031,2024-11-26 04:11:00,2024-11-29 23:11:00,Internet Connectivity,Router Issue,High,Closed,Email,TV,91.0,4.0,Unknown,Payment issue
+COMP000560,CUST00275,AG025,2025-07-05 17:31:00,,Other,General Inquiry,Critical,Escalated,Walk-in,TV,,0.0,Yes,Billing discrepancy reported
+COMP000561,CUST00186,AG009,2024-01-03 06:54:00,,Device,Device Fault,Low,Open,Live Chat,internet,,,No,Request not completed
+COMP000562,CUST00108,AG004,2024-05-27 17:59:00,2024-05-30 08:59:00,Other,Other,Medium,Closed,Call,Landline,63.0,4.0,Yes,Complaint regarding delay
+COMP000563,CUST00298,AG011,2025-01-15 01:44:00,,Account,Login Issue,Medium,Open,Live Chat,Landline,,1.0,No,Customer reported service issue
+COMP000564,CUST00241,AG034,2025-08-05 13:09:00,,Billing,Duplicate Bill,Critical,In Progress,Mobile App,internet,,4.0,Yes,Request not completed
+COMP000565,CUST00089,AG001,2024-06-08 01:56:00,,Internet Connectivity,Router Issue,Critical,Open,Mobile App,Mobile ,,5.0,No,Complaint regarding delay
+COMP000566,CUST00268,AG009,2025-03-09 05:17:00,,SIM/Activation,SIM Replacement,Critical,Open,Walk-in,Mobile,,2.0,No,Billing discrepancy reported
+COMP000567,CUST00208,AG011,2026-04-16 22:29:00,2026-04-20 07:29:00,Internet Connectivity,Slow Internet,High,Closed,Mobile App,TV,81.0,3.0,Yes,Customer reported service issue
+COMP000568,CUST00123,AG035,2025-01-06 19:49:00,2025-01-07 03:49:00,Internet Connectivity,Slow Internet,Low,Resolved,Email,Mobile,8.0,,No,Billing discrepancy reported
+COMP000569,CUST00292,AG031,2025-10-15 01:15:00,2025-10-15 23:15:00,SIM/Activation,SIM Activation Delay,Low,Resolved,Live Chat,Internet,22.0,3.0,Yes,Request not completed
+COMP000570,CUST00201,AG009,2025-02-11 16:12:00,2025-02-19 17:12:00,Package/Plan,Package Renewal,High,RESOLVED ,Mobile App,Internet,193.0,5.0,No,Customer reported service issue
+COMP000571,CUST00149,AG030,2025-05-03 18:55:00,,Account,Login Issue,Low,Open,Email,TV,,,No,Complaint regarding delay
+COMP000572,CUST00268,,2025-05-28 16:46:00,,Mobile Network,No Coverage,Critical,Escalated,Email,internet,,3.0,No,Payment issue
+COMP000573,CUST00107,,2024-02-10 22:49:00,2024-02-13 12:49:00,Account,Password Reset,Low,Closed,Email,,62.0,1.0,Yes,Billing discrepancy reported
+COMP000574,CUST00233,AG019,2025-07-14 02:31:00,,Package/Plan,Package Change,Low,Open,Live Chat,internet,,3.0,Yes,Customer reported service issue
+COMP000575,CUST00227,AG009,2025-12-28 14:16:00,2025-12-31 08:16:00,Mobile Network,Weak Signal,Critical,Closed,Call,internet,66.0,,No,Connection unstable
+COMP000576,CUST00226,AG021,2026-05-27 19:58:00,,Account,Account Update,Low,In Progress,Mobile App,,,3.0,Yes,Payment issue
+COMP000577,CUST00005,AG007,2026-01-28 07:44:00,,Billing,Duplicate Bill,Critical,Escalated,Email,Broadband,,,Yes,Billing discrepancy reported
+COMP000578,CUST00179,AG035,2026-06-14 14:42:00,,,Account Update,Low,Open,Call,Landline,,,Yes,Connection unstable
+COMP000579,CUST00163,AG032,2024-07-23 12:21:00,,billing,Login Issue,Critical,Open,Call,Mobile ,,4.0,Yes,Payment issue
+COMP000580,CUST00164,AG025,2025-04-26 04:40:00,,Mobile Network,Weak Signal,High,In Progress,Mobile App,,,2.0,Yes,Billing discrepancy reported
+COMP000581,CUST00091,AG005,2026-02-15 21:27:00,unknown,Billing,Duplicate Bill,Critical,Resolved,Call,Mobile ,65.0,,No,Connection unstable
+COMP000582,CUST00048,AG028,2025-11-16 08:11:00,,SIM/Activation,Porting Issue,High,Open,Email,TV,,3.0,No,Connection unstable
+COMP000583,CUST00224,AG025,2025-07-02 22:50:00,,Other,General Inquiry,Medium,In Progress,Call,Landline,,3.0,No,Customer reported service issue
+COMP000584,CUST00209,AG001,2025-04-14 04:31:00,2025-04-15 10:31:00,Mobile Network,Data Speed,Medium,Resolved,Mobile App,Internet,30.0,1.0,No,Complaint regarding delay
+COMP000585,CUST00194,AG014,2025-03-06 22:34:00,,SIM/Activation,SIM Replacement,Low,In Progress,Live Chat,internet,,1.0,No,Request not completed
+COMP000586,CUST00211,AG035,2025-12-17 15:41:00,2025-12-22 01:41:00,Internet Connectivity,Router Issue,High,,Call,Landline,106.0,4.0,No,Request not completed
+COMP000587,CUST00224,AG028,2025-07-20 19:10:00,,Mobile Network,No Coverage,Low,Escalated,Call,Internet,,1.0,Yes,Payment issue
+COMP000588,CUST00279,AG029,2024-04-16 15:47:00,,Account,Password Reset,Low,Escalated,Live Chat,Broadband,,2.0,No,Connection unstable
+COMP000589,,,2024-04-27 06:54:00,2024-04-28 14:54:00,Account,Account Update,Critical,Closed,Mobile App,Mobile,32.0,3.0,No,Payment issue
+COMP000590,CUST00213,AG001,2024-10-01 21:16:00,2024-10-10 20:16:00,Package/Plan,Subscription,Low,resolved,Call,Mobile,215.0,2.0,No,Payment issue
+COMP000591,CUST00285,,2024-12-09 05:36:00,2024-12-11 19:36:00,Device,Device Fault,Critical,Closed,Call,Broadband,62.0,2.0,,Complaint regarding delay
+COMP000592,CUST00224,AG009,2025-02-16 10:33:00,,Mobile Network,Weak Signal,Critical,In Progress,Live Chat,Landline,,3.0,No,Customer reported service issue
+COMP000593,CUST00079,AG035,2024-01-27 13:00:00,,Internet Connectivity,Slow Internet,Critical,Escalated,Call,Landline,,4.0,No,Billing discrepancy reported
+COMP000594,CUST00275,AG025,2025-10-30 07:19:00,,SIM/Activation,Porting Issue,Low,In Progress,Live Chat,Internet,,2.0,Yes,Complaint regarding delay
+COMP000595,CUST00063,AG019,2024-04-23 14:59:00,,Internet Connectivity,Frequent Disconnection,Medium,Escalated,Call,Internet,,4.0,No,Billing discrepancy reported
+COMP000596,CUST00212,AG005,2024-04-13 15:50:00,,Account,Login Issue,Critical,Open,Mobile App,Internet ,,,No,Billing discrepancy reported
+COMP000597,CUST00291,AG003,2024-11-01 00:57:00,,Mobile Network,Weak Signal,High,RESOLVED ,Live Chat,,,5.0,Yes,Billing discrepancy reported
+COMP000598,CUST00275,AG033,2024-05-04 06:38:00,,Package/Plan,Package Change,Medium,Open,Live Chat,Internet,,2.0,Yes,Request not completed
+COMP000599,CUST00138,AG013,2024-08-13 02:46:00,,Mobile Network,Weak Signal,High,In Progress,Walk-in,Mobile ,,4.0,No,Connection unstable
+COMP000600,CUST00144,,2024-07-16 08:11:00,,Account,Login Issue,High,In Progress,Email,TV,,,No,Connection unstable
+COMP000601,CUST00164,AG025,not a date,2025-03-18 12:47:00,,Service Request,Medium,Resolved,Walk-in,internet,209.0,3.0,Yes,Connection unstable
+COMP000602,CUST00210,AG034,2024-02-04 16:16:00,,Mobile Network,No Coverage,high,Escalated,Call,Internet,,2.0,No,Connection unstable
+COMP000603,CUST00191,AG021,2025-01-01 07:04:00,,Mobile Network,Weak Signal,high,In Progress,Live Chat,Mobile,,,No,Billing discrepancy reported
+COMP000604,CUST00288,AG019,2025-08-04 10:57:00,,Other,Other,Medium,In Progress,Walk-in,TV,,1.0,No,Complaint regarding delay
+COMP000605,CUST00164,AG004,2025-08-10 20:26:00,2025-08-14 06:26:00,Internet Connectivity,Router Issue,Critical,Closed,Call,Mobile ,82.0,4.0,Yes,Customer reported service issue
+COMP000606,CUST00197,AG002,2024-06-24 19:20:00,,Other,Service Request,Low,Escalated,Walk-in,Mobile,,4.0,No,Billing discrepancy reported
+COMP000607,CUST00021,AG002,2024-02-07 17:58:00,,Account,Login Issue,Critical,Escalated,Call,Broadband,,,No,Request not completed
+COMP000608,CUST00285,AG032,2026-02-10 11:25:00,,Device,Configuration,Low,Open,Mobile App,Mobile ,,,No,Connection unstable
+COMP000609,CUST00015,AG001,2026-05-13 11:39:00,,Internet Connectivity,No Connection,Low,Open,Live Chat,Broadband,,2.0,No,Customer reported service issue
+COMP000610,CUST00003,,2026-01-11 11:52:00,,SIM/Activation,SIM Activation Delay,High,Escalated,Call,Internet,,1.0,No,Customer reported service issue
+COMP000611,CUST00088,,2024-12-03 22:39:00,2024-12-06 20:39:00,Package/Plan,Subscription,Low,Closed,Email,internet,70.0,,No,Payment issue
+COMP000612,CUST00268,AG031,2025-10-14 14:42:00,,Account,Password Reset,Critical,Open,Live Chat,internet,,,No,Billing discrepancy reported
+COMP000613,CUST00181,AG016,2024-09-27 09:45:00,,Internet Connectivity,No Connection,Low,Open,Call,,,1.0,No,Customer reported service issue
+COMP000614,CUST00175,AG034,2025-04-24 12:12:00,2025-04-25 15:12:00,SIM/Activation,Porting Issue,High,Closed,Mobile App,Landline,27.0,,Yes,Billing discrepancy reported
+COMP000615,CUST00263,AG026,2025-01-07 12:28:00,,SIM/Activation,SIM Replacement,Low,Escalated,Live Chat,Broadband,,2.0,yes,Payment issue
+COMP000616,CUST00057,AG030,2024-05-30 14:56:00,,Internet Connectivity,No Connection,High,Open,Call,,,,No,Request not completed
+COMP000617,CUST00109,AG033,2024-05-01 17:05:00,2024-05-06 08:05:00,billing,Subscription,High,Resolved,Call,,111.0,3.0,No,Customer reported service issue
+COMP000618,CUST00151,AG012,2025-10-26 12:46:00,2025-10-28 14:46:00,Billing,Duplicate Bill,Critical,Closed,Walk-in,Broadband,50.0,1.0,Yes,Complaint regarding delay
+COMP000619,CUST00019,AG016,2024-04-23 07:07:00,,SIM/Activation,SIM Activation Delay,Low,Open,Live Chat,TV,,5.0,No,Connection unstable
+COMP000620,CUST00106,AG014,2024-04-13 07:46:00,2024-04-18 14:46:00,Account,Account Update,High,Resolved,Walk-in,Mobile ,127.0,,Yes,Customer reported service issue
+COMP000621,CUST00157,AG016,2025-05-30 22:39:00,2025-06-07 20:39:00,Mobile Network,Dropped Calls,High,Closed,Call,Landline,190.0,2.0,No,Connection unstable
+COMP000622,CUST00011,AG017,2024-01-14 21:30:00,2024-01-18 11:30:00,Mobile Network,Weak Signal,Medium,Closed,Call,internet,86.0,4.0,Yes,Connection unstable
+COMP000623,CUST00291,AG019,2025-04-28 03:02:00,,SIM/Activation,SIM Replacement,Medium,Open,Email,Internet,,1.0,No,Complaint regarding delay
+COMP000624,CUST00132,AG017,2025-04-08 15:47:00,2025-04-14 11:47:00,Device,Compatibility,Critical,Resolved,Call,internet,140.0,3.0,No,Payment issue
+COMP000625,CUST00011,AG027,2024-04-25 08:43:00,,Other,General Inquiry,Medium,Escalated,Live Chat,,,1.0,No,Payment issue
+COMP000626,CUST00100,,2025-01-03 06:47:00,,Account,Account Update,Low,Open,Live Chat,,,5.0,No,Request not completed
+COMP000627,CUST00159,AG034,2024-12-05 12:37:00,2024-12-08 11:37:00,Device,Configuration,High,Closed,Walk-in,Internet,71.0,4.0,No,Payment issue
+COMP000628,CUST00076,AG010,2024-10-22 03:00:00,2024-11-01 01:00:00,Device,Configuration,High,Closed,Walk-in,Landline,238.0,3.0,No,Request not completed
+COMP000629,CUST00112,AG008,2026-03-29 09:00:00,2026-03-29 20:00:00,Internet Connectivity,Slow Internet,Critical,Closed,Live Chat,Mobile,11.0,4.0,No,Complaint regarding delay
+COMP000630,CUST00146,AG033,2024-02-21 08:08:00,2024-03-01 17:08:00,Billing,Refund Request,Low,Resolved,Live Chat,Landline,225.0,,No,Connection unstable
+COMP000631,CUST00182,AG025,2024-10-24 07:02:00,2024-11-03 06:02:00,Internet Connectivity,Router Issue,Critical,Closed,Call,Mobile ,239.0,3.0,No,Billing discrepancy reported
+COMP000632,CUST00072,AG013,2025-11-26 10:51:00,,Account,Account Update,Medium,Escalated,Mobile App,TV,,3.0,No,Customer reported service issue
+COMP000633,CUST00094,AG028,2025-08-03 20:29:00,,Package/Plan,Package Renewal,Medium,Escalated,Walk-in,,,,No,Payment issue
+COMP000634,CUST00211,AG002,2025-04-24 11:27:00,2025-04-28 23:27:00,Device,Compatibility,Low,Closed,Email,Mobile ,108.0,,No,Payment issue
+COMP000635,CUST00151,AG026,2024-05-10 19:34:00,,Device,Device Fault,Critical,Escalated,Call,,,,No,Customer reported service issue
+COMP000636,CUST00171,AG019,2024-02-26 08:53:00,,Internet Connectivity,Router Issue,High,Open,Call,Internet,,,Yes,Complaint regarding delay
+COMP000637,CUST00115,AG010,2025-06-12 04:35:00,2025-06-13 15:35:00,SIM/Activation,Porting Issue,High,Closed,Call,,35.0,5.0,No,Customer reported service issue
+COMP000638,CUST00267,AG014,2024-01-01 04:38:00,,Internet Connectivity,Slow Internet,Critical,Open,Call,,,4.0,Yes,Customer reported service issue
+COMP000639,CUST00280,AG029,2025-02-18 15:11:00,,Package/Plan,Package Renewal,Critical,In Progress,Email,Mobile,,2.0,No,Complaint regarding delay
+COMP000640,CUST00103,AG019,2024-06-23 16:47:00,,Billing ,Porting Issue,Low,Escalated,Walk-in,,,3.0,No,Connection unstable
+COMP000641,CUST00218,AG019,2025-12-15 03:29:00,2025-12-23 20:29:00,Account,Account Update,Low,Closed,Walk-in,Broadband,209.0,1.0,No,Customer reported service issue
+COMP000642,CUST00235,AG011,2024-02-13 11:08:00,2024-02-22 21:08:00,Other,Service Request,Medium,Closed,Live Chat,Broadband,226.0,5.0,Yes,Billing discrepancy reported
+COMP000643,CUST00174,AG009,2024-12-26 20:46:00,,Mobile Network,No Coverage,High,Pending,Mobile App,Internet,,,No,Connection unstable
+COMP000644,CUST00260,AG034,2025-09-12 21:11:00,,Mobile Network ,Service Request,Medium,Escalated,Live Chat,internet,,5.0,No,Customer reported service issue
+COMP000645,CUST00050,AG032,2024-01-31 23:10:00,,Billing,Payment Not Reflected,High,In Progress,Email,TV,,1.0,No,Complaint regarding delay
+COMP000646,CUST00032,AG008,2026-02-12 13:59:00,,Account,Login Issue,Low,Open,Mobile App,internet,,5.0,Yes,Billing discrepancy reported
+COMP000647,CUST00294,AG013,2024-04-20 22:28:00,2024-04-22 09:28:00,Device,Compatibility,Critical,Closed,Mobile App,Mobile ,35.0,2.0,No,Complaint regarding delay
+COMP000648,CUST00045,AG007,2025-03-20 16:51:00,,Mobile Network,Dropped Calls,Low,In Progress,Email,Mobile,,3.0,No,Payment issue
+COMP000649,CUST00255,AG014,2024-12-14 05:43:00,,Internet Connectivity,Router Issue,High,Escalated,Live Chat,Landline,,,Yes,Connection unstable
+COMP000650,CUST00292,AG034,2025-10-02 12:55:00,,Account,Account Update,Low,Open,Call,,,0.0,Yes,Payment issue
+COMP000651,CUST00129,AG023,2024-01-24 07:52:00,2024-02-03 04:52:00,Device,Device Fault,Medium,Resolved,Live Chat,Internet,237.0,5.0,No,Payment issue
+COMP000652,CUST00057,AG017,2025-02-12 19:03:00,,Package/Plan,Package Renewal,Low,Escalated,Live Chat,Broadband,,3.0,No,Request not completed
+COMP000653,CUST00032,AG005,2024-05-22 06:35:00,2024-06-01 03:35:00,Billing,Incorrect Charge,High,Resolved,Call,Broadband,237.0,5.0,Yes,Payment issue
+COMP000654,CUST00054,AG033,2024-05-12 08:46:00,,Other,General Inquiry,High,Open,Mobile App,,,3.0,No,Customer reported service issue
+COMP000655,CUST00195,AG002,2024-01-27 06:34:00,,Billing,Payment Not Reflected,Low,Escalated,Mobile App,Broadband,,,No,Connection unstable
+COMP000656,CUST00189,AG022,2025-07-16 04:07:00,2025-07-17 11:07:00,Account,Account Update,Low,Closed,Email,TV,31.0,1.0,Yes,Billing discrepancy reported
+COMP000657,CUST00008,AG016,2026-02-04 17:36:00,,Account,Login Issue,Low,Open,Call,Landline,,4.0,No,Request not completed
+COMP000658,CUST00150,AG026,2024-11-17 11:38:00,,Billing,Payment Not Reflected,Low,In Progress,Call,Internet,,3.0,No,Connection unstable
+COMP000659,CUST00283,AG016,2026-05-29 07:28:00,2026-06-02 05:28:00,Device,Configuration,urgent,Resolved,Live Chat,Internet,94.0,1.0,No,Connection unstable
+COMP000660,CUST00267,AG014,2024-02-30,,Other,General Inquiry,High,In Progress,Email,Mobile,,2.0,No,Complaint regarding delay
+COMP000661,CUST00139,AG025,2024-04-26 00:31:00,,Other,Service Request,Low,Open,Call,Mobile ,,,No,Connection unstable
+COMP000662,CUST00115,AG012,2026-06-02 12:24:00,2026-06-03 00:24:00,Billing,Payment Not Reflected,Low,Closed,Live Chat,Mobile,12.0,5.0,No,Customer reported service issue
+COMP000663,CUST00111,AG022,2026-04-28 08:51:00,,Device,Configuration,Critical,Escalated,Mobile App,Mobile,,,Yes,Payment issue
+COMP000664,CUST00238,AG034,2026-01-08 21:18:00,,Account,Account Update,Medium,Escalated,Mobile App,,,,No,Billing discrepancy reported
+COMP000665,CUST00128,AG019,2024-10-14 21:17:00,,Billing,Duplicate Bill,Critical,Open,Call,Mobile ,,3.0,No,Complaint regarding delay
+COMP000666,CUST00007,AG021,2026-03-12 20:51:00,,Package/Plan,Data Limit,Medium,Escalated,Mobile App,,,1.0,No,Customer reported service issue
+COMP000667,CUST00112,AG006,2024-02-07 11:30:00,,Other,Service Request,High,Escalated,Call,,,2.0,No,Request not completed
+COMP000668,,AG004,2026-06-08 15:08:00,,Package/Plan,Package Change,Low,In Progress,Call,Landline,,,No,Payment issue
+COMP000669,CUST00032,,2024-02-12 17:45:00,,Device,Compatibility,High,In Progress,Call,internet,,5.0,Yes,Payment issue
+COMP000670,CUST00228,AG005,2024-12-24 03:04:00,,SIM/Activation,SIM Replacement,Medium,Escalated,Live Chat,internet,,,No,Customer reported service issue
+COMP000671,CUST00168,AG024,2026-06-15 09:09:00,,Account,Account Update,Critical,Open,Live Chat,,,3.0,Yes,Billing discrepancy reported
+COMP000672,CUST00014,AG014,2024-02-15 09:59:00,,Device,Compatibility,High,In Progress,Email,Broadband,,,Yes,Complaint regarding delay
+COMP000673,CUST00115,AG027,2025-01-25 20:05:00,,Mobile Network,Weak Signal,Low,Open,Walk-in,,,,No,Request not completed
+COMP000674,CUST00169,AG024,2024-07-18 18:18:00,,Package/Plan,Package Change,Critical,In Progress,Live Chat,Internet,,,No,Connection unstable
+COMP000675,CUST00259,AG024,2025-01-05 02:22:00,,Account,Password Reset,Critical,Escalated,Walk-in,TV,,4.0,No,Billing discrepancy reported
+COMP000676,CUST00300,AG017,2025-07-04 07:49:00,2025-07-11 12:49:00,Mobile Network,No Coverage,High,Closed,Live Chat,Internet,173.0,1.0,No,Connection unstable
+COMP000677,CUST00093,AG001,2025-08-12 15:40:00,,Mobile Network,Dropped Calls,Low,In Progress,Mobile App,Mobile ,,,No,Complaint regarding delay
+COMP000678,CUST00086,,2024-05-09 01:53:00,2024-05-09 08:53:00,Internet Connectivity,No Connection,Critical,Closed,Mobile App,internet,7.0,2.0,No,Complaint regarding delay
+COMP000679,CUST00173,AG007,2025-12-30 09:07:00,2026-01-08 23:07:00,SIM/Activation,SIM Activation Delay,Low,Resolved,Live Chat,,230.0,4.0,No,Complaint regarding delay
+COMP000680,CUST00094,AG033,2024-10-23 15:44:00,,Account,Login Issue,Medium,In Progress,Call,internet,,,No,Connection unstable
+COMP000681,CUST00144,,2025-03-25 05:32:00,,Device,Device Fault,Medium,Escalated,Live Chat,,,-1,Yes,Payment issue
+COMP000682,CUST00092,,2024-10-19 10:24:00,2024-10-27 12:24:00,Account,Login Issue,Medium,Resolved,Mobile App,Mobile ,194.0,5.0,No,Customer reported service issue
+COMP000683,CUST00250,AG011,2024-10-18 05:07:00,2024-10-21 04:07:00,Device,Compatibility,High,Resolved,Walk-in,Internet,71.0,2.0,No,Billing discrepancy reported
+COMP000684,CUST00087,AG003,2024-07-30 17:53:00,,Internet Connectivity,No Connection,Low,resolved,Mobile App,Mobile,,3.0,No,Request not completed
+COMP000685,CUST00233,AG008,2026-01-19 14:33:00,,Account,Password Reset,Low,In Progress,Mobile App,Broadband,,4.0,,Customer reported service issue
+COMP000686,CUST00182,AG015,2024-10-12 23:42:00,,Mobile Network ,Weak Signal,High,Open,Email,internet,,3.0,No,Complaint regarding delay
+COMP000687,CUST00222,AG034,2025-12-24 22:20:00,,Internet Connectivity,Frequent Disconnection,Medium,Open,Walk-in,Mobile,,,Yes,Billing discrepancy reported
+COMP000688,CUST00101,AG010,2025-08-23 12:55:00,,Mobile Network,Data Speed,Medium,In Progress,Mobile App,Mobile ,,2.0,No,Complaint regarding delay
+COMP000689,CUST00002,AG032,2025-06-12 23:47:00,,Internet Connectivity,No Connection,Medium,In Progress,Call,Broadband,,,No,Payment issue
+COMP000690,CUST00272,AG012,2025-10-08 18:15:00,2025-10-13 22:15:00,Account,Account Update,Medium,Resolved,Live Chat,,124.0,4.0,No,Payment issue
+COMP000691,CUST00113,AG019,2025-07-10 15:18:00,,Device,Compatibility,Critical,Open,Live Chat,TV,,,No,Customer reported service issue
+COMP000692,CUST00178,AG009,2025-04-20 10:42:00,,Mobile Network,Data Speed,Critical,Open,Walk-in,Broadband,,,No,Customer reported service issue
+COMP000693,CUST00288,AG017,2024-10-01 16:13:00,2024-10-02 08:13:00,Package/Plan,Data Limit,Critical,Closed,Mobile App,,16.0,4.0,No,Request not completed
+COMP000694,CUST00174,AG003,2024-10-01 15:46:00,,Billing,Duplicate Bill,Critical,In Progress,Mobile App,TV,,5.0,No,Payment issue
+COMP000695,CUST00169,AG035,2026-03-09 20:07:00,,SIM/Activation,SIM Activation Delay,Low,Escalated,Mobile App,Internet,,,No,Request not completed
+COMP000696,CUST00186,AG011,2025-11-01 01:33:00,,Internet Connectivity,Router Issue,Medium,In Progress,Live Chat,Landline,,3.0,No,Connection unstable
+COMP000697,CUST00019,AG034,2025-07-20 23:15:00,,SIM/Activation,SIM Activation Delay,Critical,Open,Mobile App,Mobile,,2.0,No,Request not completed
+COMP000698,CUST00018,AG008,2024-08-23 20:49:00,,Billing,Payment Not Reflected,Critical,In Progress,Email,Mobile ,,N/A,Yes,Customer reported service issue
+COMP000699,CUST00008,AG035,2025-05-31 23:45:00,2025-06-01 05:45:00,Internet Connectivity,No Connection,Low,Closed,Walk-in,Broadband,6.0,2.0,No,Request not completed
+COMP000700,CUST00235,AG017,2025-06-08 23:01:00,2025-06-11 22:01:00,Account,Password Reset,Critical,Resolved,Mobile App,Mobile ,71.0,4.0,Yes,Billing discrepancy reported
+COMP000701,,AG025,2025-07-28 08:30:00,2025-08-07 01:30:00,Account,Login Issue,Critical,Resolved,Email ,internet,233.0,,Yes,Connection unstable
+COMP000702,CUST00229,AG007,2025-08-14 00:25:00,,SIM/Activation,Porting Issue,High,In Progress,Email,Internet,,1.0,No,Billing discrepancy reported
+COMP000703,CUST00207,AG031,2025-08-30 07:05:00,,Other,Other,Medium,In Progress,Call,,,3.0,No,Request not completed
+COMP000704,CUST00290,AG001,2026-05-04 04:02:00,2026-05-11 13:02:00,Device,Compatibility,Medium,Resolved,Walk-in,,177.0,5.0,No,Request not completed
+COMP000705,CUST00285,AG006,,2024-12-01 02:45:00,SIM/Activation,SIM Activation Delay,Critical,Closed,Call,Broadband,132.0,2.0,Yes,Billing discrepancy reported
+COMP000706,CUST00020,AG032,2024-06-19 06:28:00,,Internet Connectivity,No Connection,Critical,Open,Email,Broadband,,4.0,Yes,Request not completed
+COMP000707,CUST00166,AG024,2025-03-21 09:46:00,2025-03-26 23:46:00,Internet Connectivity,No Connection,Medium,Resolved,Live Chat,TV,134.0,,No,Payment issue
+COMP000708,CUST00070,AG031,2025-04-28 14:13:00,2025-05-08 12:13:00,Package/Plan,Package Renewal,High,Resolved,Mobile App,Landline,238.0,2.0,No,Customer reported service issue
+COMP000709,CUST00049,AG022,2024-11-15 22:12:00,,Billing,Incorrect Charge,Low,In Progress,Walk-in,,,5.0,No,Customer reported service issue
+COMP000710,CUST00177,AG013,2025-10-13 17:56:00,,Device,Compatibility,High,In Progress,Mobile App,Mobile ,,3.0,No,Request not completed
+COMP000711,CUST00111,AG017,2024-03-20 18:09:00,,SIM/Activation,SIM Activation Delay,Medium,Open,Walk-in,Broadband,,3.0,No,Complaint regarding delay
+COMP000712,CUST00111,AG010,2024-08-02 05:00:00,,Other,General Inquiry,Medium,In Progress,Mobile App,Internet ,,3.0,Yes,Customer reported service issue
+COMP000713,,AG008,2025-06-07 14:27:00,2025-06-11 02:27:00,Internet,Dropped Calls,Critical,RESOLVED ,Mobile App,Broadband,84.0,,No,Request not completed
+COMP000714,CUST00041,AG014,2026-05-08 16:20:00,,Package/Plan,Package Change,High,RESOLVED ,Email,Broadband,,5.0,No,Connection unstable
+COMP000715,CUST00179,AG024,2025-12-02 03:35:00,2025-12-09 02:35:00,Package/Plan,Subscription,High,Closed,Mobile App,TV,167.0,5.0,No,Connection unstable
+COMP000716,CUST00227,AG013,2024-07-02 23:00:00,,Device,Device Fault,High,In Progress,Live Chat,Internet,,3.0,No,Payment issue
+COMP000717,CUST00246,AG017,2025-09-13 08:02:00,2025-09-20 05:02:00,Billing,Duplicate Bill,Low,Resolved,Walk-in,Mobile,165.0,,No,Payment issue
+COMP000718,CUST00054,AG002,2025-05-17 05:30:00,,Other,Other,Medium,Escalated,Email,Fiber,,1.0,No,Customer reported service issue
+COMP000719,CUST00161,AG035,2025-03-30 20:45:00,,Billing,Duplicate Bill,Medium,Open,Walk-in,Mobile,,3.0,No,Complaint regarding delay
+COMP000720,CUST00008,,2025-08-23 23:23:00,,Mobile Network,Data Speed,Critical,Escalated,Call,Internet,,2.0,No,Complaint regarding delay
+COMP000721,CUST00142,AG033,2024-03-26 05:28:00,,Package/Plan,Subscription,Medium,Open,Call,Mobile ,,3.0,No,Customer reported service issue
+COMP000722,CUST00290,,2025-04-22 18:53:00,,Device,Device Fault,Low,Open,Call,Landline,,,Yes,Billing discrepancy reported
+COMP000723,CUST00006,AG024,2025-08-28 20:01:00,,Device,Compatibility,Low,In Progress,Email,Mobile ,,,No,Complaint regarding delay
+COMP000724,CUST00143,AG021,2024-11-13 01:24:00,2024-11-14 23:24:00,Mobile Network,Data Speed,Medium,Resolved,Email,Mobile ,46.0,2.0,No,Request not completed
+COMP000725,CUST00251,AG024,2025-12-15 14:16:00,,Package/Plan,Data Limit,Critical,Open,Email,Mobile,,,No,Billing discrepancy reported
+COMP000726,CUST00176,AG033,2025-12-20 13:22:00,2025-12-22 19:22:00,SIM/Activation,Porting Issue,Low,Resolved,Walk-in,TV,54.0,3.0,No,Connection unstable
+COMP000727,CUST00244,AG021,2024-02-02 03:33:00,,Package/Plan,Data Limit,Critical,In Progress,Walk-in,Mobile,,3.0,Yes,Complaint regarding delay
+COMP000728,CUST00172,AG007,2026-06-09 00:10:00,2026-06-14 02:10:00,Device,Device Fault,High,Closed,Live Chat,Landline,122.0,4.0,No,Customer reported service issue
+COMP000729,CUST00295,AG026,2026-04-08 19:29:00,,Other,Service Request,Medium,Escalated,Live Chat,internet,,5.0,No,Connection unstable
+COMP000730,CUST00260,AG028,2024-11-03 01:59:00,,Account,Account Update,Critical,In Progress,Walk-in,Mobile,,2.0,No,Request not completed
+COMP000731,CUST00028,,2025-08-04 04:08:00,2025-08-12 14:08:00,SIM/Activation,Porting Issue,Medium,Resolved,Live Chat,,202.0,4.0,No,Connection unstable
+COMP000732,CUST00155,AG012,2025-11-05 04:12:00,,Billing,Refund Request,Medium,In Progress,Mobile App,Internet,,,No,Billing discrepancy reported
+COMP000733,CUST00242,AG026,2024-01-06 15:10:00,2024-01-07 17:10:00,Device,Configuration,Medium,Resolved,Mobile App,Broadband,26.0,,No,Complaint regarding delay
+COMP000734,CUST00163,AG009,2026-02-20 03:24:00,,SIM/Activation,Verification,High,In Progress,Live Chat,Broadband,,5.0,No,Payment issue
+COMP000735,,AG012,2024-12-21 15:42:00,,Internet Connectivity,No Connection,High,Escalated,Live Chat,internet,,5.0,Yes,Payment issue
+COMP000736,CUST00256,AG014,2024-03-20 20:14:00,,Account,Account Update,HIGH ,In Progress,Call,internet,,4.0,No,Connection unstable
+COMP000737,CUST00134,,2024-10-18 09:24:00,2024-10-18 18:24:00,Mobile Network,Data Speed,Medium,Closed,Email,Broadband,9.0,,Yes,Connection unstable
+COMP000738,CUST00208,AG001,2024-12-20 21:46:00,,Internet Connectivity,No Connection,High,Open,Email,Broadband,,,No,Customer reported service issue
+COMP000739,CUST00028,AG017,2025-10-31 21:25:00,2025-11-09 03:25:00,Other,Other,Low,Closed,Walk-in,,198.0,5.0,No,Connection unstable
+COMP000740,CUST00092,,2026-05-14 17:23:00,,Device,Configuration,Critical,Open,Call,Landline,,1.0,No,Complaint regarding delay
+COMP000741,CUST00233,AG030,2024-07-21 16:52:00,,Package/Plan,Data Limit,Low,Escalated,Call,,,4.0,No,Customer reported service issue
+COMP000742,CUST00013,AG012,2024-09-15 13:21:00,2024-09-23 18:21:00,Device,Compatibility,High,Resolved,Mobile App,Mobile,197.0,4.0,No,Request not completed
+COMP000743,CUST00273,AG016,2025-09-02 03:22:00,,Billing,Refund Request,Low,Open,Walk-in,Internet,,2.0,No,Complaint regarding delay
+COMP000744,CUST00125,AG034,2025-03-17 08:22:00,2025-03-24 17:22:00,Other,Other,Critical,Closed,Call,Internet,177.0,3.0,No,Customer reported service issue
+COMP000745,CUST00196,AG006,2025-09-15 23:40:00,,Mobile Network,No Coverage,High,Open,Mobile App,Broadband,,1.0,No,Complaint regarding delay
+COMP000746,CUST00222,,2026-01-08 20:47:00,,Package/Plan,Package Change,High,Open,Live Chat,TV,,,Yes,Request not completed
+COMP000747,CUST00142,AG003,2024-08-08 13:17:00,,Other,Other,Critical,In Progress,Email,Mobile ,,3.0,Yes,Connection unstable
+COMP000748,CUST00141,AG021,2024-01-20 13:42:00,,SIM/Activation,SIM Activation Delay,Medium,In Progress,Email,Mobile,,,No,Billing discrepancy reported
+COMP000749,CUST00236,AG022,2025-09-18 09:46:00,,Internet Connectivity,Router Issue,Critical,Escalated,Walk-in,Mobile,,3.0,No,Request not completed
+COMP000750,CUST00256,AG011,2026-04-22 14:09:00,2026-05-01 17:09:00,Device,Configuration,Critical,Closed,Live Chat,Broadband,219.0,1.0,Yes,Complaint regarding delay
+COMP000751,CUST00272,AG019,2025-07-28 11:05:00,,Other,Service Request,Critical,In Progress,Mobile App,Mobile,,2.0,No,Payment issue
+COMP000752,CUST00146,AG032,2025-08-01 13:26:00,,Device,Device Fault,Critical,Open,Walk-in,Landline,,4.0,Yes,Customer reported service issue
+COMP000753,CUST00149,AG011,2024-08-11 06:07:00,,Account,Password Reset,Critical,Escalated,Walk-in,Broadband,,3.0,No,Connection unstable
+COMP000754,CUST00163,AG035,2024-11-23 11:40:00,,Package/Plan,Subscription,Medium,Open,Mobile App,,,,No,Request not completed
+COMP000755,CUST00273,AG030,2024-06-09 05:25:00,2024-06-09 06:25:00,Other,Other,Medium,Resolved,Call,Fiber,1.0,5.0,No,Connection unstable
+COMP000756,CUST00115,AG033,2024-07-12 20:01:00,,Account,Login Issue,HIGH ,Escalated,Call,internet,,-1.0,No,Billing discrepancy reported
+COMP000757,CUST00200,AG013,2025-12-01 02:23:00,,Other,General Inquiry,Critical,RESOLVED ,Live Chat,TV,,2.0,No,Complaint regarding delay
+COMP000758,CUST00016,AG030,2024-11-26 04:18:00,,SIM/Activation,Verification,Medium,Open,Walk-in,,,2.0,No,Connection unstable
+COMP000759,CUST00082,AG005,2026-04-02 19:53:00,2026-04-12 03:53:00,Internet Connectivity,Slow Internet,Low,Resolved,Mobile App,,224.0,,No,Customer reported service issue
+COMP000760,CUST00274,AG029,2024-09-23 22:34:00,,Account,Account Update,Low,Open,Live Chat,Broadband,,,Yes,Request not completed
+COMP000761,CUST00064,AG017,2026-01-03 16:40:00,2026-01-08 06:40:00,Account,Password Reset,Low,Closed,Email,internet,110.0,4.0,No,Billing discrepancy reported
+COMP000762,CUST00169,AG005,2026-03-25 15:13:00,2026-03-26 16:13:00,SIM/Activation,Verification,Critical,Resolved,Email,Mobile ,25.0,3.0,No,Complaint regarding delay
+COMP000763,CUST00141,AG009,2024-12-04 14:44:00,2024-12-10 16:44:00,Other,General Inquiry,High,Resolved,Call,TV,146.0,3.0,No,Complaint regarding delay
+COMP000764,CUST00157,AG029,2024-11-10 22:10:00,,Package/Plan,Data Limit,Medium,Escalated,Email,Landline,,5.0,No,Connection unstable
+COMP000765,CUST00299,AG001,2025-10-14 07:01:00,2025-13-01,Package/Plan,Data Limit,High,In Progress,Walk-in,Broadband,,4.0,No,Request not completed
+COMP000766,CUST00192,AG032,2025-08-24 16:20:00,,Mobile Network,Dropped Calls,Critical,Escalated,Email,,,4.0,Yes,Complaint regarding delay
+COMP000767,CUST00115,AG008,2024-12-16 07:19:00,,Internet Connectivity,No Connection,High,In Progress,Mobile App,,,5.0,Yes,Complaint regarding delay
+COMP000768,CUST00205,AG022,2026-01-29 06:23:00,,SIM/Activation,SIM Activation Delay,High,Open,Walk-in,Internet,,,Yes,Connection unstable
+COMP000769,CUST00126,AG030,2024-09-07 08:51:00,,SIM/Activation,SIM Replacement,Low,In Progress,Walk-in,Mobile ,,5.0,No,Customer reported service issue
+COMP000770,CUST00268,AG014,2026-01-20 02:57:00,,SIM/Activation,SIM Replacement,Medium,In Progress,Walk-in,,,4.0,Yes,Payment issue
+COMP000771,CUST00245,AG006,2024-11-22 20:04:00,,Billing,Payment Not Reflected,Medium,In Progress,Call,TV,,5.0,yes,Request not completed
+COMP000772,CUST00227,AG013,2025-08-18 13:55:00,,Billing,Payment Not Reflected,Low,resolved,Live Chat,Broadband,,5.0,No,Connection unstable
+COMP000773,CUST00146,,2024-12-02 16:30:00,,Mobile Network,No Coverage,High,Escalated,Walk-in,TV,,3.0,No,Complaint regarding delay
+COMP000774,CUST00250,AG033,2025-10-02 14:07:00,,Package/Plan,Subscription,Critical,In Progress,Email,Landline,,1.0,No,Complaint regarding delay
+COMP000775,CUST00094,AG007,2024-04-06 14:21:00,,Package/Plan,Package Change,Medium,Escalated,Live Chat,Mobile ,,3.0,No,Customer reported service issue
+COMP000776,CUST00166,AG026,2025-09-16 06:36:00,31/12/2025,Package/Plan,Package Change,Medium,In Progress,Walk-in,Landline,,3.0,No,Complaint regarding delay
+COMP000777,CUST00135,AG020,2026-03-09 23:17:00,,Account,Account Update,Medium,In Progress,Live Chat,internet,,,No,Complaint regarding delay
+COMP000778,CUST00202,AG001,2025-04-05 09:27:00,,Device,Compatibility,Low,Escalated,Mobile App,internet,,,No,Connection unstable
+COMP000779,CUST00132,AG024,2024-01-20 22:12:00,,Package/Plan,Package Renewal,High,In Progress,Mobile App,Broadband,,6.0,No,Billing discrepancy reported
+COMP000780,CUST00125,AG031,2026-05-26 08:06:00,,Other,Other,Critical,Open,Call,Broadband,,,No,Billing discrepancy reported
+COMP000781,CUST00052,AG022,2024-02-30,,Package/Plan,Data Limit,High,Open,Mobile App,Mobile ,,1.0,No,Billing discrepancy reported
+COMP000782,CUST00078,AG013,2024-11-28 23:26:00,,Internet Connectivity,Slow Internet,Critical,In Progress,Email,internet,,5.0,No,Payment issue
+COMP000783,CUST00161,,2025-12-07 00:08:00,,Package/Plan,Data Limit,Critical,Open,WhatsApp,Landline,,3.0,No,Billing discrepancy reported
+COMP000784,CUST00012,AG027,2025-01-05 10:12:00,2025-01-08 04:12:00,Other,Service Request,Critical,Resolved,Mobile App,Mobile,66.0,6,Yes,Payment issue
+COMP000785,CUST00259,AG021,2024-01-17 18:27:00,,Device,Configuration,Critical,Open,Live Chat,internet,,,Yes,Complaint regarding delay
+COMP000786,CUST00273,AG033,2025-08-01 02:35:00,,Internet Connectivity,Slow Internet,Critical,Open,Walk-in,TV,,,Yes,Complaint regarding delay
+COMP000787,CUST00078,AG005,2026-04-17 08:29:00,2026-04-26 20:29:00,Account,Login Issue,High,Closed,Mobile App,Broadband,228.0,1.0,No,Payment issue
+COMP000788,CUST00005,AG028,31/11/2025,2024-01-08 00:53:00,Package/Plan,Package Change,High,Closed,Email,internet,5.0,5.0,No,Complaint regarding delay
+COMP000789,CUST00296,AG010,2026-02-27 18:59:00,2026-03-09 07:59:00,SIM/Activation,SIM Replacement,High,Resolved,Email,Internet,229.0,1.0,Yes,Billing discrepancy reported
+COMP000790,CUST00118,AG013,2024-03-11 10:55:00,2024-03-21 08:55:00,Device,Compatibility,Medium,Resolved,Mobile App,Mobile ,238.0,2.0,No,Request not completed
+COMP000791,CUST00228,AG014,2024-05-20 14:07:00,2024-05-20 21:07:00,Billing,Payment Not Reflected,Low,Closed,Mobile App,,7.0,4.0,No,Billing discrepancy reported
+COMP000792,CUST00260,AG034,2025-08-27 03:05:00,,Account,Login Issue,Medium,In Progress,Email,N/A,,4.0,No,Complaint regarding delay
+COMP000793,CUST00260,AG017,2025-03-01 06:13:00,,Device,Configuration,Low,Open,Mobile App,Mobile,,1.0,No,Connection unstable
+COMP000794,CUST00034,AG020,2026-05-28 03:22:00,2026-05-31 11:22:00,Account,Login Issue,Low,Resolved,Mobile App,,80.0,0,No,Complaint regarding delay
+COMP000795,CUST00091,AG009,2024-02-16 04:54:00,,Device,Configuration,Medium,In Progress,Email,,,,Yes,Customer reported service issue
+COMP000796,CUST00213,AG027,2026-06-06 23:42:00,2026-06-10 23:42:00,SIM/Activation,SIM Replacement,Medium,Resolved,Walk-in,Landline,96.0,,No,Request not completed
+COMP000797,CUST00157,AG024,2026-03-16 05:01:00,2026-03-18 10:01:00,Internet Connectivity,Frequent Disconnection,High,Closed,Call,Mobile,53.0,3.0,Yes,Connection unstable
+COMP000798,CUST00277,AG034,2026-01-22 04:58:00,2026-01-22 16:58:00,Billing,Refund Request,Medium,Closed,Call,Mobile,12.0,3.0,No,Customer reported service issue
+COMP000799,CUST00275,AG001,2024-03-08 03:30:00,2024-03-12 14:30:00,Account,Account Update,Critical,Closed,Mobile App,Mobile ,107.0,-1,No,Complaint regarding delay
+COMP000800,CUST00245,AG013,2025-09-20 21:45:00,,Device,Device Fault,Medium,Open,Walk-in,Landline,,,No,Billing discrepancy reported
+COMP000801,CUST00054,AG999,2026-01-31 03:45:00,2026-02-03 04:45:00,Internet Connectivity,No Connection,High,Closed,Live Chat,,73.0,,No,Billing discrepancy reported
+COMP000802,CUST00297,AG003,2025-03-08 11:42:00,,Device,Configuration,Critical,In Progress,Call,TV,,2.0,Yes,Billing discrepancy reported
+COMP000803,CUST00006,AG031,2026-05-05 07:10:00,2026-05-08 18:10:00,Billing,Duplicate Bill,Medium,Closed,Walk-in,Broadband,83.0,4.0,No,Connection unstable
+COMP000804,CUST00264,,2025-07-12 14:07:00,2025-07-19 14:07:00,Package/Plan,Data Limit,Medium,Resolved,Live Chat,internet,168.0,,No,Payment issue
+COMP000805,CUST00266,AG024,31/11/2025,2025-11-18 07:42:00,Other,Service Request,Low,Resolved,Walk-in,Landline,196.0,1.0,No,Connection unstable
+COMP000806,CUST00178,AG028,2024-05-03 17:45:00,2024-05-05 02:45:00,Internet Connectivity,Slow Internet,Medium,Resolved,Mobile App,TV,33.0,2.0,No,Customer reported service issue
+COMP000807,CUST00078,AG034,2026-01-21 23:22:00,,SIM/Activation,SIM Activation Delay,High,Escalated,Walk-in,TV,,,No,Request not completed
+COMP000808,CUST00116,AG010,2024-04-12 21:10:00,,Mobile Network,Data Speed,Medium,Escalated,Live Chat,Mobile,,4.0,No,Connection unstable
+COMP000809,CUST00154,AG017,2025-05-02 14:20:00,,Account,Password Reset,High,In Progress,Email,Internet,-12.0,1.0,No,Billing discrepancy reported
+COMP000810,CUST00201,AG027,2025-05-07 05:48:00,,Mobile Network,Data Speed,Medium,In Progress,Email,internet,,1.0,No,Request not completed
+COMP000811,CUST00078,AG010,2025-02-15 03:46:00,,Mobile Network,No Coverage,High,Escalated,Call,Internet,,5.0,No,Payment issue
+COMP000812,CUST00225,AG008,2026-03-01 20:38:00,2026-03-04 08:38:00,Internet Connectivity,Router Issue,Medium,Closed,Call,internet,60.0,3.0,Yes,Connection unstable
+COMP000813,CUST00087,AG032,2024-04-25 20:29:00,2024-05-02 02:29:00,Package/Plan,Data Limit,Medium,Closed,Walk-in,Internet,150.0,1.0,No,Billing discrepancy reported
+COMP000814,CUST00054,AG018,2026-05-06 22:27:00,2026-05-07 13:27:00,Other,Other,High,Closed,Live Chat,internet,15.0,4.0,No,Request not completed
+COMP000815,CUST00300,AG028,2024-01-14 03:45:00,2024-01-16 18:45:00,Internet Connectivity,Frequent Disconnection,Low,Closed,Mobile App,Broadband,63.0,5.0,No,Customer reported service issue
+COMP000816,CUST00049,AG016,2025-08-27 20:06:00,,Internet Connectivity,Frequent Disconnection,Critical,Escalated,Mobile App,mobile,,3.0,No,Connection unstable
+COMP000817,CUST00014,AG012,2025-02-12 20:47:00,2025-02-20 00:47:00,Billing,Incorrect Charge,High,Closed,Call,Mobile ,172.0,4.0,Yes,Complaint regarding delay
+COMP000818,CUST00128,AG004,2026-05-19 08:22:00,2026-05-23 03:22:00,Other,Service Request,Critical,Resolved,Live Chat,Landline,91.0,2.0,No,Complaint regarding delay
+COMP000819,CUST00256,AG022,2026-02-10 11:49:00,,Account,Account Update,Medium,In Progress,Live Chat,Mobile ,,1.0,Yes,Complaint regarding delay
+COMP000820,CUST00196,AG032,2024-11-16 19:31:00,,Account,Account Update,High,In Progress,Mobile App,internet,,,No,Billing discrepancy reported
+COMP000821,CUST00159,AG019,2024-01-17 03:12:00,,Device,Configuration,Medium,Escalated,Mobile App,Internet,,2.0,Yes,Customer reported service issue
+COMP000822,CUST00182,AG025,2026-05-22 08:09:00,2026-05-28 01:09:00,Account,Login Issue,High,Resolved,Walk-in,Internet,137.0,3.0,No,Connection unstable
+COMP000823,CUST00254,AG015,2024-09-08 17:09:00,2024-09-09 00:09:00,Billing,Refund Request,Medium,Resolved,Mobile App,TV,-3.0,2.0,Yes,Request not completed
+COMP000824,CUST00285,AG013,2024-01-22 19:30:00,2024-01-27 06:30:00,Mobile Network ,Verification,Medium,Closed,Walk-in,Broadband,107.0,,No,Complaint regarding delay
+COMP000825,CUST00190,AG016,2025-12-24 11:51:00,2025-12-29 02:51:00,Package/Plan,Data Limit,High,Resolved,Call,Landline,111.0,3.0,No,Payment issue
+COMP000826,CUST00161,AG015,2024-04-08 16:45:00,2024-04-14 10:45:00,Mobile Network,No Coverage,Medium,Closed,Mobile App,Mobile ,138.0,5.0,Yes,Connection unstable
+COMP000827,CUST00088,AG029,2025-05-24 18:27:00,,Other,Other,Low,Open,Live Chat,,,,No,Customer reported service issue
+COMP000828,CUST00130,,2024-03-07 23:17:00,,Device,Configuration,Low,Escalated,Walk-in,,,4.0,No,Connection unstable
+COMP000829,CUST00156,AG033,2025-11-08 14:19:00,,SIM/Activation,Verification,Medium,Escalated,Walk-in,internet,,,Yes,Payment issue
+COMP000830,CUST00037,AG034,2025-12-30 11:37:00,unknown,Billing,Payment Not Reflected,Medium,Open,Email,TV,,5.0,No,Billing discrepancy reported
+COMP000831,CUST00170,AG026,2025-10-26 15:46:00,,Billing,Payment Not Reflected,Critical,Open,Mobile App,,,2.0,No,Billing discrepancy reported
+COMP000832,CUST00130,AG012,2024-11-14 11:11:00,2024-11-23 21:11:00,Internet Connectivity,Frequent Disconnection,Critical,Closed,Email,TV,226.0,3.0,Yes,Request not completed
+COMP000833,CUST00032,,2026-02-08 03:33:00,2026-02-08 09:33:00,Other,General Inquiry,High,Resolved,Call,Landline,6.0,1.0,,Customer reported service issue
+COMP000834,CUST00289,AG005,2025-01-28 09:01:00,,Device,Device Fault,Medium,Escalated,Walk-in,,,2.0,No,Request not completed
+COMP000835,CUST00192,AG029,2026-06-12 21:58:00,,Internet Connectivity,No Connection,Medium,In Progress,Mobile App,Mobile,,5.0,Yes,Payment issue
+COMP000836,CUST00179,AG034,2026-04-06 09:59:00,2026-04-07 13:59:00,Internet Connectivity,No Connection,Low,Resolved,Mobile App,TV,28.0,5.0,No,Payment issue
+COMP000837,CUST00230,,2025-04-10 21:35:00,2025-04-19 06:35:00,Device,Configuration,Low,Closed,Live Chat,TV,201.0,3.0,No,Billing discrepancy reported
+COMP000838,CUST00246,AG007,2024-07-11 12:02:00,2024-07-12 04:02:00,Other,Other,Low,Resolved,Live Chat,Broadband,16.0,,No,Request not completed
+COMP000839,CUST00150,,2024-05-18 14:48:00,,Device,Compatibility,Critical,In Progress,Mobile App,Broadband,,1.0,No,Customer reported service issue
+COMP000840,CUST00200,AG019,2024-04-16 10:35:00,2024-04-22 23:35:00,Other,Other,Low,Closed,Walk-in,Mobile,157.0,2.0,Yes,Request not completed
+COMP000841,CUST00274,AG020,2025-10-18 10:47:00,,Mobile Network,Data Speed,Medium,Open,Live Chat,Mobile,,,No,Complaint regarding delay
+COMP000842,CUST00110,AG012,2025-06-04 11:43:00,,Mobile Network,Dropped Calls,High,Open,Call,TV,,4.0,No,Payment issue
+COMP000843,CUST00149,AG016,2024-02-16 12:13:00,,Billing,Duplicate Bill,Medium,Open,Mobile App,TV,,3.0,No,Customer reported service issue
+COMP000844,CUST00133,AG028,2024-05-25 19:15:00,,Mobile Network,No Coverage,Medium,Escalated,Live Chat,Broadband,,,Yes,Connection unstable
+COMP000845,CUST00250,AG001,2025-01-21 08:53:00,,Account,Password Reset,Critical,In Progress,Call,,,2.0,No,Customer reported service issue
+COMP000846,CUST00094,AG011,2024-04-28 05:57:00,2024-04-28 23:57:00,Internet Connectivity,Frequent Disconnection,Critical,Closed,Live Chat,Mobile ,18.0,3.0,No,Customer reported service issue
+COMP000847,CUST00255,AG034,2025-02-08 06:05:00,,Internet Connectivity,Slow Internet,Critical,Escalated,Mobile App,Internet,,1.0,No,Customer reported service issue
+COMP000848,CUST00124,AG024,2024-07-07 02:48:00,,Account,Account Update,Medium,Open,Mobile App,Mobile,,,No,Billing discrepancy reported
+COMP000849,CUST00175,AG017,2024-02-14 18:00:00,,Device,Device Fault,High,In Progress,Mobile App,TV,,,Yes,Connection unstable
+COMP000850,,AG013,2024-06-05 09:32:00,,Account,Account Update,Critical,Open,Call,,,1.0,No,Payment issue
+COMP000851,CUST00163,AG005,2025-07-24 05:09:00,,Package/Plan,Subscription,Low,Escalated,Walk-in,Landline,,,No,Request not completed
+COMP000852,CUST00004,AG004,2024-05-26 03:43:00,,Billing,Payment Not Reflected,Low,In Progress,Email,Mobile,,5.0,Yes,Customer reported service issue
+COMP000853,CUST00199,AG016,2025-08-08 20:24:00,2025-08-16 04:24:00,Other,Other,Critical,Resolved,Walk-in,Mobile ,176.0,3.0,No,Connection unstable
+COMP000854,CUST00074,AG012,2025-04-10 17:56:00,2025-04-13 03:56:00,Mobile Network,Data Speed,High,Resolved,Email,internet,58.0,,Yes,Connection unstable
+COMP000855,CUST00278,AG026,2024-05-27 01:29:00,2024-06-03 15:29:00,Package/Plan,Package Change,High,Closed,Email,Broadband,182.0,4.0,No,Connection unstable
+COMP000856,CUST00167,AG009,2025-03-30 12:29:00,2025-04-03 03:29:00,Other,Other,Medium,Resolved,Email,TV,87.0,,No,Payment issue
+COMP000857,CUST00187,AG027,2026-06-13 23:42:00,,SIM/Activation,Porting Issue,High,Escalated,Email,Broadband,,2.0,No,Customer reported service issue
+COMP000858,CUST00103,AG011,2024-11-03 19:26:00,,Other,Other,Critical,Open,Walk-in,Broadband,,2.0,No,Customer reported service issue
+COMP000859,CUST00140,,2025-01-30 18:42:00,,SIM/Activation,SIM Replacement,Critical,In Progress,Walk-in,TV,-3.0,2.0,No,Request not completed
+COMP000860,CUST00272,AG003,,2024-09-12 08:08:00,Other,Other,Low,Closed,Call,Internet,81.0,1.0,Yes,Customer reported service issue
+COMP000861,CUST00078,,2026-05-23 02:20:00,2026-05-25 06:20:00,Device,Compatibility,Low,Resolved,Live Chat,internet,52.0,5.0,No,Connection unstable
+COMP000862,CUST00288,AG010,2025-12-21 05:18:00,2025-12-22 07:18:00,Device,Device Fault,Critical,Resolved,Call,Broadband,26.0,2.0,No,Complaint regarding delay
+COMP000863,CUST00228,AG003,2025-12-07 07:07:00,,,Package Change,Critical,In Progress,Mobile App,Broadband,,4.0,No,Customer reported service issue
+COMP000864,CUST00230,AG032,2025-03-27 18:36:00,,Device,Configuration,High,In Progress,,Internet,,3.0,Yes,Billing discrepancy reported
+COMP000865,CUST00077,AG013,2025-10-01 09:43:00,2025-10-11 04:43:00,Mobile Network,No Coverage,High,Closed,Call,internet,235.0,5.0,No,Customer reported service issue
+COMP000866,CUST00263,AG034,2024-06-22 11:54:00,2024-06-24 13:54:00,Account,Login Issue,Critical,Resolved,Live Chat,Landline,50.0,1.0,No,Complaint regarding delay
+COMP000867,CUST00140,AG030,2024-09-26 14:27:00,2024-09-27 01:27:00,Package/Plan,Package Renewal,High,Resolved,Walk-in,Mobile,11.0,2.0,Yes,Complaint regarding delay
+COMP000868,CUST00199,AG018,2024-11-05 12:12:00,2024-11-09 14:12:00,Billing,Payment Not Reflected,High,Closed,Live Chat,Broadband,98.0,N/A,No,Billing discrepancy reported
+COMP000869,CUST00251,AG006,2026-01-06 08:35:00,,Device,Compatibility,Low,In Progress,Live Chat,Internet,,1.0,No,Customer reported service issue
+COMP000870,CUST00079,AG016,2024-03-17 05:23:00,,SIM/Activation,SIM Activation Delay,Low,Open,Call,Mobile,,,No,Payment issue
+COMP000871,CUST00170,AG007,2024-06-08 18:40:00,2024-06-15 12:40:00,Internet Connectivity,Slow Internet,Low,Closed,Email,TV,9999.0,,Yes,Billing discrepancy reported
+COMP000872,CUST00120,AG006,2026-01-05 02:00:00,2026-01-13 13:00:00,Internet Connectivity,Router Issue,High,Closed,Walk-in,TV,203.0,4.0,No,Complaint regarding delay
+COMP000873,CUST00032,AG033,2025-09-11 22:11:00,2025-09-15 00:11:00,Other,General Inquiry,Low,Closed,Email,TV,74.0,3.0,No,Payment issue
+COMP000874,CUST00097,AG021,2025-12-17 03:44:00,,SIM/Activation,SIM Replacement,Medium,Open,Mobile App,Mobile ,,5.0,No,Payment issue
+COMP000875,CUST00124,AG017,2024-08-11 13:16:00,2024-08-19 10:16:00,Package/Plan,Data Limit,Medium,Resolved,Call,Mobile,189.0,1.0,No,Request not completed
+COMP000876,CUST00046,AG024,2025-09-26 13:05:00,2025-09-26 17:05:00,Billing,Incorrect Charge,High,Closed,Live Chat,,4.0,3.0,No,Request not completed
+COMP000877,CUST00098,AG011,2024-11-03 15:20:00,,Other,General Inquiry,High,Escalated,Mobile App,,,4.0,No,Connection unstable
+COMP000878,CUST00073,AG025,2026-06-08 14:28:00,,Other,Service Request,Low,In Progress,Email,internet,,4.0,No,Connection unstable
+COMP000879,CUST00078,AG012,2024-01-15 13:50:00,,,Device Fault,Low,In Progress,Call,Broadband,,4.0,No,Request not completed
+COMP000880,CUST00156,AG018,2024-07-21 00:31:00,2024-07-22 17:31:00,Device,Device Fault,Medium,Closed,Mobile App,,41.0,4.0,No,Billing discrepancy reported
+COMP000881,CUST00035,,2025-11-12 01:22:00,,Other,Other,Critical,Open,Walk-in,Mobile ,,2.0,No,Payment issue
+COMP000882,CUST00158,AG022,2026-04-02 06:26:00,2026-04-02 10:26:00,Other,Other,High,Closed,Walk-in,Broadband,4.0,5.0,Yes,Payment issue
+COMP000883,CUST00066,AG031,2025-06-26 09:21:00,2025-07-05 00:21:00,Mobile Network,Weak Signal,Low,Resolved,Mobile App,internet,207.0,4.0,No,Billing discrepancy reported
+COMP000884,CUST00244,AG022,2025-12-05 07:58:00,2025-12-12 02:58:00,Device,Configuration,High,Resolved,Email,Landline,163.0,3.0,No,Complaint regarding delay
+COMP000885,CUST00241,AG021,,,SIM/Activation,SIM Activation Delay,Critical,Escalated,Email,internet,,1.0,No,Connection unstable
+COMP000886,CUST00142,AG024,2024-03-09 14:24:00,,Package/Plan,Package Renewal,Critical,In Progress,Email,TV,,,Yes,Request not completed
+COMP000887,CUST00075,AG021,2026-04-24 19:30:00,,Device,Compatibility,High,Escalated,Walk-in,TV,,,No,Payment issue
+COMP000888,CUST00269,AG019,2024-10-29 23:03:00,,Internet Connectivity,No Connection,Critical,In Progress,Mobile App,Mobile,,3.0,No,Billing discrepancy reported
+COMP000889,CUST00189,AG010,2024-10-30 00:01:00,2024-10-30 21:01:00,Mobile Network,Data Speed,Critical,Closed,Walk-in,Landline,21.0,5.0,No,Request not completed
+COMP000890,CUST00233,AG009,2024-10-07 14:17:00,,Internet Connectivity,Frequent Disconnection,Low,In Progress,Call,Mobile,,,No,Payment issue
+COMP000891,CUST00014,AG021,2025-01-12 04:20:00,2025-01-18 01:20:00,Other,Service Request,Medium,Closed,Live Chat,Mobile,141.0,,No,Request not completed
+COMP000892,CUST00255,AG005,2025-06-07 01:46:00,,Billing,Refund Request,Medium,In Progress,Call,Landline,,,No,Customer reported service issue
+COMP000893,CUST00036,AG035,2024-12-31 10:05:00,2025-01-04 02:05:00,Device,Device Fault,Critical,Closed,Mobile App,Landline,88.0,5.0,Yes,Billing discrepancy reported
+COMP000894,CUST00123,AG002,2024-06-11 03:48:00,2024-06-13 14:48:00,Other,General Inquiry,Medium,Resolved,Mobile App,Mobile,59.0,1.0,No,Billing discrepancy reported
+COMP000895,CUST00199,AG026,2026-06-10 04:32:00,2026-06-13 15:32:00,Mobile Network,Weak Signal,High,Resolved,Mobile App,Mobile,83.0,,No,Payment issue
+COMP000896,CUST00107,AG032,2024-02-11 06:37:00,,Internet Connectivity,Slow Internet,High,Open,Call,Internet ,,5.0,No,Connection unstable
+COMP000897,CUST00145,AG024,2024-06-04 17:00:00,,SIM/Activation,Verification,Medium,Escalated,Email,Mobile ,,3.0,No,Request not completed
+COMP000898,CUST00015,AG033,2025-02-06 03:41:00,2025-02-10 23:41:00,Package/Plan,Subscription,Medium,Resolved,Email,Internet,116.0,1.0,No,Customer reported service issue
+COMP000899,CUST00110,AG020,2024-07-23 18:47:00,2024-08-01 16:47:00,SIM/Activation,Porting Issue,Critical,Resolved,Call,TV,214.0,5.0,No,Billing discrepancy reported
+COMP000900,CUST00171,AG025,2024-11-13 00:13:00,,Billing,Duplicate Bill,Critical,In Progress,Mobile App,Landline,,4.0,No,Payment issue
+COMP000901,CUST00040,AG001,2026-03-25 21:54:00,,Package/Plan,Package Renewal,Low,In Progress,Call,Mobile ,,1.0,No,Connection unstable
+COMP000902,CUST00028,AG013,2026-01-16 18:10:00,,Account,Account Update,High,Open,Call,Mobile ,,4.0,Yes,Request not completed
+COMP000903,CUST00105,AG002,2024-05-02 09:09:00,2024-05-07 06:09:00,Billing,Payment Not Reflected,Medium,Resolved,Call,Internet,117.0,1.0,No,Connection unstable
+COMP000904,CUST00246,AG010,2024-10-03 00:44:00,,Package/Plan,Package Change,Low,Escalated,Mobile App,Broadband,,1.0,Yes,Connection unstable
+COMP000905,CUST00007,AG003,2026-04-30 14:26:00,,Account,Password Reset,Low,In Progress,Live Chat,Mobile ,,,No,Billing discrepancy reported
+COMP000906,CUST00121,AG001,2024-01-25 21:17:00,,Package/Plan,Package Renewal,Critical,In Progress,Walk-in,,,,No,Complaint regarding delay
+COMP000907,CUST00189,AG031,2024-10-20 11:05:00,31/12/2025,Billing,Refund Request,High,Escalated,Live Chat,Landline,,3.0,No,Connection unstable
+COMP000908,CUST00150,AG032,2025-08-17 12:23:00,2025-08-21 05:23:00,Mobile Network,Data Speed,High,Closed,Mobile App,Internet,89.0,5.0,No,Billing discrepancy reported
+COMP000909,CUST00277,AG011,2025-01-02 20:29:00,2025-01-10 21:29:00,Device,Device Fault,High,Closed,Walk-in,Landline,193.0,5.0,No,Payment issue
+COMP000910,CUST00203,AG027,2026-05-21 18:08:00,,Mobile Network,Weak Signal,Low,In Progress,Walk-in,Internet,,5.0,Yes,Request not completed
+COMP000911,CUST00060,AG024,2026-01-27 07:43:00,2026-02-01 13:43:00,Mobile Network,Data Speed,Critical,Resolved,Email,internet,126.0,,No,Complaint regarding delay
+COMP000912,CUST00097,AG033,2024-08-19 20:41:00,2024-08-21 12:41:00,Mobile Network ,Slow Internet,high,Closed,Email,Internet,40.0,,No,Billing discrepancy reported
+COMP000913,CUST00098,AG002,2024-11-06 06:34:00,,Account,Account Update,Low,Open,Email,Landline,,,Yes,Customer reported service issue
+COMP000914,CUST00207,AG020,2025-04-08 03:27:00,2025-04-15 05:27:00,Package/Plan,Data Limit,Critical,Resolved,Live Chat,TV,170.0,3.0,No,Payment issue
+COMP000915,CUST00252,,2025-10-12 19:37:00,,Other,Service Request,High,Open,,Mobile,,3.0,No,Connection unstable
+COMP000916,CUST00180,,2025-03-08 22:37:00,,Internet Connectivity,Router Issue,Low,Escalated,Mobile App,Mobile,,4.0,Yes,Connection unstable
+COMP000917,CUST00049,AG022,2025-07-10 02:05:00,,Package/Plan,Package Change,Critical,In Progress,Call,internet,,3.0,No,Billing discrepancy reported
+COMP000918,CUST00015,,2024-04-07 00:43:00,,Account,Account Update,Low,In Progress,Walk-in,Landline,,4.0,No,Complaint regarding delay
+COMP000919,CUST00130,AG034,2026-03-31 17:41:00,,Account,Account Update,Medium,Open,Mobile App,Mobile ,,,No,Customer reported service issue
+COMP000920,CUST00080,,2025-09-07 10:27:00,,Package/Plan,Package Renewal,Medium,Open,Mobile App,,,2.0,Yes,Connection unstable
+COMP000921,CUST00115,AG032,2026-03-02 12:02:00,31/12/2025,Mobile Network,Dropped Calls,Critical,Resolved,Call,Internet,47.0,2.0,No,Billing discrepancy reported
+COMP000922,CUST00269,AG024,2025-03-24 15:23:00,2025-03-24 21:23:00,Billing,Incorrect Charge,Critical,Closed,Mobile App,Mobile,6.0,3.0,No,Payment issue
+COMP000923,CUST00184,AG033,2024-03-09 02:05:00,2024-03-18 11:05:00,Account,Login Issue,Medium,Resolved,Call,Fiber,225.0,2.0,Yes,Payment issue
+COMP000924,CUST00192,AG031,2025-11-11 06:28:00,,Mobile Network,Weak Signal,Medium,Escalated,Walk-in,Broadband,,1.0,Yes,Billing discrepancy reported
+COMP000925,CUST00191,AG001,2024-05-30 09:08:00,2024-05-30 12:08:00,SIM/Activation,SIM Activation Delay,High,Closed,Walk-in,Mobile,3.0,3.0,No,Request not completed
+COMP000926,CUST00097,AG031,2026-05-31 15:51:00,,SIM/Activation,Verification,Medium,In Progress,Call,Landline,,4.0,Yes,Billing discrepancy reported
+COMP000927,CUST00245,AG005,2026-05-28 16:09:00,,Mobile Network,Dropped Calls,Medium,Open,Mobile App,internet,,2.0,No,Connection unstable
+COMP000928,CUST00203,AG024,2026-02-09 13:02:00,2026-02-17 21:02:00,Billing,Payment Not Reflected,Critical,Resolved,Walk-in,TV,200.0,,No,Connection unstable
+COMP000929,CUST00267,AG005,2025-10-23 20:10:00,,Account,Account Update,Low,In Progress,Mobile App,Internet,,5.0,Yes,Complaint regarding delay
+COMP000930,CUST00202,AG022,2026-03-02 20:02:00,2026-03-05 20:02:00,Mobile Network,No Coverage,High,Resolved,Live Chat,,72.0,5.0,No,Connection unstable
+COMP000931,CUST00273,AG005,2025-04-25 10:05:00,2025-04-29 02:05:00,Mobile Network,No Coverage,High,Closed,Live Chat,Mobile ,88.0,5.0,No,Request not completed
+COMP000932,CUST00099,AG034,2024-09-02 18:12:00,2024-09-06 01:12:00,Device,Configuration,Critical,Resolved,Live Chat,Mobile ,79.0,5.0,No,Complaint regarding delay
+COMP000933,CUST00152,AG024,2026-02-25 19:56:00,,SIM/Activation,Porting Issue,Medium,In Progress,Mobile App,Landline,,1.0,No,Complaint regarding delay
+COMP000934,CUST00255,AG026,2024-07-29 19:50:00,2024-07-31 18:50:00,SIM/Activation,Verification,High,Resolved,Walk-in,,47.0,5.0,No,Billing discrepancy reported
+COMP000935,CUST00193,AG026,2025-09-12 02:16:00,,Package/Plan,Package Renewal,Low,Open,Email,Mobile ,,4.0,No,Payment issue
+COMP000936,CUST00137,AG028,2025-06-07 18:26:00,,Package/Plan,Subscription,Low,In Progress,Mobile App,Broadband,,4.0,No,Customer reported service issue
+COMP000937,CUST00022,AG018,2024-07-04 03:23:00,,Mobile Network,Weak Signal,High,Open,Email,Internet,,,No,Billing discrepancy reported
+COMP000938,CUST00058,AG018,2025-11-07 18:03:00,,Billing,Duplicate Bill,Critical,Open,Email,TV,,2.0,No,Payment issue
+COMP000939,CUST00284,AG015,2026-05-10 07:09:00,,Device,Device Fault,Critical,Open,Email,Mobile,,2.0,Yes,Payment issue
+COMP000940,CUST00127,AG015,2026-04-08 15:07:00,,Package/Plan,Package Change,Critical,Open,Walk-in,Landline,,2.0,No,Request not completed
+COMP000941,CUST00297,AG025,2024-01-04 07:42:00,2024-01-08 23:42:00,Internet Connectivity,Router Issue,HIGH ,Resolved,Email,Internet,112.0,,Yes,Connection unstable
+COMP000942,CUST00195,AG018,2025-03-29 04:47:00,2025-04-07 06:47:00,Other,General Inquiry,Critical,Closed,Mobile App,internet,218.0,3.0,Yes,Connection unstable
+COMP000943,CUST00191,AG005,2026-05-08 14:38:00,,Account,Password Reset,Critical,In Progress,Email,Broadband,,2.0,No,Request not completed
+COMP000944,CUST00119,AG031,2025-02-18 08:15:00,2025-02-27 23:15:00,Device,Device Fault,Medium,Resolved,Call,,231.0,,Yes,Connection unstable
+COMP000945,CUST00229,AG006,2025-01-03 12:01:00,2025-01-08 04:01:00,Device,Compatibility,High,Closed,Live Chat,TV,112.0,3.0,No,Request not completed
+COMP000946,CUST00265,AG013,2024-06-10 05:14:00,,Other,General Inquiry,Critical,Escalated,Live Chat,Mobile,,,No,Customer reported service issue
+COMP000947,CUST00026,AG034,2024-04-04 19:44:00,,Mobile Network,No Coverage,Critical,Escalated,Email,Mobile ,,2.0,No,Request not completed
+COMP000948,CUST00267,AG006,2024-08-22 13:19:00,,Mobile Network,Weak Signal,Medium,RESOLVED ,Live Chat,,,4.0,No,Billing discrepancy reported
+COMP000949,CUST00035,AG018,2026-04-07 06:38:00,,Billing,Refund Request,Low,Open,Mobile App,internet,,,No,Billing discrepancy reported
+COMP000950,CUST00140,AG002,2024-09-08 00:20:00,,Mobile Network,Weak Signal,Critical,In Progress,Email,Internet ,,1.0,No,Billing discrepancy reported
+COMP000951,CUST00143,AG030,2024-09-04 19:53:00,2024-09-10 22:53:00,Mobile Network,Dropped Calls,Low,Resolved,Email,Landline,147.0,,Yes,Customer reported service issue
+COMP000952,CUST00251,AG026,2024-05-19 00:18:00,2024-05-24 16:18:00,Account,Password Reset,Critical,Closed,Walk-in,,136.0,,No,Payment issue
+COMP000953,CUST00258,AG009,2026-02-08 08:33:00,2026-02-10 03:33:00,Account,Login Issue,Medium,Closed,Call,internet,43.0,,No,Customer reported service issue
+COMP000954,CUST00162,AG002,2025-01-26 12:19:00,2025-01-26 19:19:00,Account,Login Issue,Critical,Resolved,Email,,7.0,,No,Complaint regarding delay
+COMP000955,CUST00117,AG017,2025-02-09 07:09:00,,Package/Plan,Subscription,Critical,Open,Mobile App,,,3.0,No,Connection unstable
+COMP000956,CUST00052,AG004,2025-03-01 01:15:00,,Mobile Network,No Coverage,Critical,In Progress,Mobile App,Broadband,,1.0,No,Request not completed
+COMP000957,CUST00100,AG033,2024-02-11 15:04:00,2024-02-15 04:04:00,Other,General Inquiry,Low,Resolved,Call,Landline,85.0,,No,Customer reported service issue
+COMP000958,CUST00191,AG026,2025-06-05 06:40:00,,Billing,Duplicate Bill,Critical,Pending,Live Chat,internet,,3.0,No,Customer reported service issue
+COMP000959,CUST00019,AG033,2025-03-24 15:27:00,,Internet Connectivity,Slow Internet,Medium,Escalated,Mobile App,internet,,,No,Complaint regarding delay
+COMP000960,CUST00048,AG018,2024-05-27 04:48:00,,Package/Plan,Subscription,Medium,In Progress,Call,Mobile,,3.0,Yes,Billing discrepancy reported
+COMP000961,CUST00078,AG017,2025-03-04 18:12:00,2025-03-13 07:12:00,SIM/Activation,SIM Replacement,Low,Closed,Call,Landline,205.0,,Yes,Request not completed
+COMP000962,CUST00085,,2026-03-16 02:14:00,2026-03-25 21:14:00,Other,Service Request,Low,Closed,Call,,235.0,,No,Payment issue
+COMP000963,CUST00286,AG022,2026-05-21 15:16:00,,Device,Configuration,High,Escalated,Walk-in,Landline,,,No,Payment issue
+COMP000964,CUST00169,,2024-08-19 00:27:00,2024-08-21 22:27:00,SIM/Activation,Porting Issue,Critical,Closed,Mobile App,Mobile,70.0,5.0,No,Request not completed
+COMP000965,CUST00113,AG016,2026-04-23 04:35:00,,Internet Connectivity,Router Issue,Medium,In Progress,Call,internet,,4.0,No,Connection unstable
+COMP000966,CUST00247,,2024-11-02 02:15:00,,Device,Configuration,Low,In Progress,Live Chat,Mobile,,4.0,No,Connection unstable
+COMP000967,CUST00061,AG032,2025-02-28 15:01:00,2025-03-04 14:01:00,Mobile Network,Data Speed,Critical,Resolved,Walk-in,TV,95.0,4.0,No,Billing discrepancy reported
+COMP000968,CUST00173,AG021,2024-09-06 19:51:00,,Package/Plan,Subscription,Low,In Progress,Call,Internet,,1.0,Yes,Billing discrepancy reported
+COMP000969,CUST00027,AG012,2025-05-19 02:59:00,,Account,Login Issue,Medium,In Progress,Live Chat,internet,,,No,Complaint regarding delay
+COMP000970,CUST00052,AG006,2024-02-11 05:57:00,2024-02-14 18:57:00,Internet Connectivity,Slow Internet,Low,Resolved,Email,Landline,85.0,4.0,No,Customer reported service issue
+COMP000971,CUST00037,AG019,2025-08-30 09:39:00,,Package/Plan,Package Change,Low,Escalated,Mobile App,Mobile ,,2.0,Yes,Connection unstable
+COMP000972,CUST00174,AG999,2025-12-06 09:02:00,2025-12-15 12:02:00,SIM/Activation,Verification,High,Closed,Walk-in,Mobile ,219.0,3.0,No,Connection unstable
+COMP000973,CUST00124,AG010,2026-03-24 09:42:00,2026-03-26 15:42:00,SIM/Activation,SIM Activation Delay,Low,Resolved,Call,Internet ,54.0,2.0,Yes,Connection unstable
+COMP000974,CUST00171,AG016,2024-06-01 23:04:00,2024-06-10 05:04:00,Mobile Network,Data Speed,Critical,Resolved,Mobile App,Internet,198.0,,No,Complaint regarding delay
+COMP000975,CUST00201,AG005,2025-04-29 20:02:00,2025-05-01 13:02:00,SIM/Activation,SIM Activation Delay,Low,Resolved,Live Chat,Broadband,41.0,2.0,No,Connection unstable
+COMP000976,CUST00069,AG028,2026-03-13 22:55:00,2026-03-18 18:55:00,Account,Password Reset,High,Resolved,Walk-in,Landline,116.0,1.0,No,Request not completed
+COMP000977,CUST00022,AG016,2024-04-05 15:56:00,2024-04-07 05:56:00,Account,Password Reset,Critical,Resolved,Live Chat,TV,38.0,,No,Connection unstable
+COMP000978,CUST00176,AG024,2026-02-28 00:40:00,2026-03-07 15:40:00,Billing,Duplicate Bill,Low,Resolved,Call,,183.0,,No,Billing discrepancy reported
+COMP000979,CUST00141,AG034,2024-12-06 21:42:00,,Mobile Network,Dropped Calls,Critical,Escalated,Call,,,,No,Payment issue
+COMP000980,CUST00209,AG005,2024-02-15 09:21:00,,Other,Service Request,Critical,Open,Mobile App,TV,,3.0,No,Connection unstable
+COMP000981,CUST00118,AG017,2024-11-03 20:54:00,,Package/Plan,Subscription,High,Open,Call,TV,,1.0,No,Connection unstable
+COMP000982,CUST00039,AG018,2025-02-10 00:27:00,,SIM/Activation,Verification,Low,Open,Walk-in,Mobile ,,,Yes,Connection unstable
+COMP000983,,AG025,2025-06-30 21:35:00,2025-07-09 05:35:00,SIM/Activation,Porting Issue,Medium,Resolved,Walk-in,TV,200.0,1.0,No,Customer reported service issue
+COMP000984,CUST00051,AG017,2025-10-24 07:30:00,,billing,Device Fault,High,Open,Live Chat,Broadband,,2.0,No,Billing discrepancy reported
+COMP000985,CUST00278,AG005,2025-01-05 03:48:00,2025-01-08 11:48:00,Mobile Network,Weak Signal,Medium,Resolved,Call,Mobile,80.0,2.0,Yes,Request not completed
+COMP000986,CUST00257,AG035,2024-04-26 14:21:00,,Mobile Network,Data Speed,Low,Open,Mobile App,Mobile ,,,Yes,Request not completed
+COMP000987,CUST00280,,2024-12-27 05:24:00,,Internet Connectivity,Slow Internet,Low,In Progress,Call,Landline,,2.0,No,Billing discrepancy reported
+COMP000988,CUST00175,AG028,2025-05-05 20:22:00,,SIM/Activation,SIM Activation Delay,Critical,Open,Email,Landline,,2.0,No,Payment issue
+COMP000989,,AG024,2026-02-01 07:53:00,2026-02-07 06:53:00,Internet Connectivity,No Connection,Low,Closed,Call,,143.0,2.0,Yes,Payment issue
+COMP000990,CUST00174,AG001,2024-01-18 21:59:00,2024-01-25 20:59:00,Device,Compatibility,Critical,Resolved,Call,Landline,167.0,,Yes,Payment issue
+COMP000991,CUST00283,AG022,2025-08-30 04:30:00,2025-09-05 02:30:00,Internet Connectivity,Slow Internet,Low,Closed,Live Chat,TV,142.0,3.0,No,Request not completed
+COMP000992,CUST00071,AG025,2026-05-29 03:03:00,2026-06-05 06:03:00,Billing,Refund Request,High,Resolved,Live Chat,Broadband,171.0,1.0,No,Customer reported service issue
+COMP000993,CUST00014,,2024-11-11 23:19:00,2024-11-12 05:19:00,Other,Service Request,Medium,Closed,Call,Landline,6.0,5.0,Yes,Request not completed
+COMP000994,CUST00064,AG014,2024-04-07 08:49:00,2024-04-10 18:49:00,Internet Connectivity,Slow Internet,Medium,Resolved,Call,Mobile ,82.0,3.0,Yes,Complaint regarding delay
+COMP000995,CUST00207,AG003,2025-07-19 21:19:00,,Package/Plan,Data Limit,Critical,Open,Call,internet,,3.0,Yes,Billing discrepancy reported
+COMP000996,CUST00245,AG024,2024-04-06 18:00:00,,Internet Connectivity,Router Issue,Low,Open,Live Chat,Landline,,5.0,No,Customer reported service issue
+COMP000997,CUST00054,AG002,2024-06-21 05:41:00,,Device,Compatibility,Medium,Escalated,Email,Landline,,,No,Connection unstable
+COMP000998,CUST00097,AG016,2025-11-28 16:56:00,2025-12-04 20:56:00,Billing,Incorrect Charge,Critical,Resolved,Email,Broadband,148.0,2.0,No,Request not completed
+COMP000999,CUST00148,AG008,2025-02-18 18:26:00,,Mobile Network,Data Speed,High,Escalated,Walk-in,,,1.0,Yes,Connection unstable
+COMP001000,CUST00296,AG008,2026-02-03 08:44:00,,SIM/Activation,SIM Replacement,Medium,In Progress,Call,TV,,2.0,Yes,Complaint regarding delay
+COMP000026,CUST00150,AG032,2025-05-05 10:11:00,2025-05-08 20:11:00,SIM/Activation,SIM Replacement,High,Closed,Mobile App,Mobile ,82.0,,No,Request not completed
+COMP000079,CUST00187,,2026-03-03 03:54:00,,Mobile Network,No Coverage,Critical,Escalated,Walk-in,Internet,,3.0,No,Request not completed
+COMP000152,CUST00042,AG009,2025-07-18 03:11:00,,Other,Other,Medium,Escalated,Live Chat,Internet,,,,Customer reported service issue
+COMP000301,CUST00038,AG032,2026-06-09 06:24:00,,Account,Login Issue,Critical,In Progress,Email,TV,,5.0,No,Billing discrepancy reported
+COMP000501,CUST00288,AG999,2025-10-21 10:24:00,2025-10-28 10:24:00,Internet Connectivity,Router Issue,Medium,Closed,Email,Mobile ,168.0,1.0,No,Customer reported service issue
