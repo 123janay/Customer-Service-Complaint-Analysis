@@ -28,9 +28,6 @@ This project demonstrates practical skills in SQL data cleaning, exploratory dat
 - **SQL Server Management Studio (SSMS):** Writing and executing SQL queries.
 - **GitHub:** Project version control and documentation.
 
-## Dataset Overview
-
-The project contains four datasets:
 
 ## Project Workflow
 
