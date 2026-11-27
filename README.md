@@ -32,13 +32,6 @@ This project demonstrates practical skills in SQL data cleaning, exploratory dat
 
 The project contains four datasets:
 
-| Dataset | Description |
-|---|---|
-| Customers | Customer information, city, segment, registration date, and account status. |
-| Complaints | Complaint details, issue categories, priority, status, resolution time, and satisfaction ratings. |
-| Agents | Agent information, teams, and employment status. |
-| Complaint Updates | Complaint update history, update dates, descriptions, and responsible agents. |
-
 ## Project Workflow
 
 ### 1. Database Creation & Data Loading
