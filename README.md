@@ -115,13 +115,10 @@ Customer-Service-Complaint-Analytics/
 │   ├── 01_Database_and_Raw_Data_Loading.sql
 │   ├── 02_Clean_Tables_Creation.sql
 │   ├── 03_Customers_Data_Profiling.sql
-│   ├── 04_Customers_Data_Cleaning.sql
-│   ├── 05_Agents_Data_Profiling_and_Cleaning.sql
-│   ├── 06_Complaints_Data_Profiling_and_Cleaning.sql
-│   ├── 07_Exploratory_Data_Analysis.sql
-│   └── 08_Advanced_Data_Analysis.sql
+│   ├── 04_Data_Cleaning.sql
+│   ├── 05_Exploratory_Data_Analysis.sql
+│   └── 06_Advanced_Data_Analysis.sql
 │
-├── Documentation/
 │
 └── README.md
 ```
